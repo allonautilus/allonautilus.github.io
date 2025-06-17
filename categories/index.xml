@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Nautili Blog</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>Recent content in Categories on Nautili Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-US</language>
+        <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Performance | 演出</title>
+        <link>http://localhost:1313/categories/performance--%E6%BC%94%E5%87%BA/</link>
+        <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/performance--%E6%BC%94%E5%87%BA/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Daily | 日常</title>
+        <link>http://localhost:1313/categories/daily--%E6%97%A5%E5%B8%B8/</link>
+        <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/daily--%E6%97%A5%E5%B8%B8/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Travel | 游记</title>
+        <link>http://localhost:1313/categories/travel--%E6%B8%B8%E8%AE%B0/</link>
+        <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/travel--%E6%B8%B8%E8%AE%B0/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Syntax</title>
+        <link>http://localhost:1313/categories/syntax/</link>
+        <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/syntax/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>http://localhost:1313/categories/themes/</link>
+        <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Example Category</title>
+        <link>http://localhost:1313/categories/example-category/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/example-category/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
