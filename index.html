@@ -11,7 +11,7 @@
 <meta property='og:description' content="Naut's Blog">
 <meta property='og:url' content='http://localhost:1313/'>
 <meta property='og:site_name' content='Nautili Blog'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 9999-12-31T00:00:00&#43;00:00 '/>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2025-05-04T00:00:00&#43;00:00 '/>
 <meta name="twitter:title" content="Nautili Blog">
 <meta name="twitter:description" content="Naut's Blog"><link rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/index.xml">
     <link rel="shortcut icon" href="/images/favicon.png" />
@@ -269,7 +269,23 @@
     <aside class="sidebar right-sidebar sticky">
         
             
-                
+                <form action="/page/search/" class="search-form widget" >
+        <p>
+            <label>搜索</label>
+            <input name="keyword" required placeholder="输入关键词..." />
+        
+            <button title="搜索">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+            </button>
+        </p>
+    </form>
             
         
             
@@ -291,16 +307,20 @@
 
      <div class="category-label">
          
-             <a href="/categories/performance--%E6%BC%94%E5%87%BA/" class="font_size_6">
-                 Performance | 演出<span class="category-count">6</span>
+             <a href="/categories/performance--%E6%BC%94%E5%87%BA/" class="font_size_11">
+                 Performance | 演出<span class="category-count">11</span>
              </a>
          
-             <a href="/categories/travel--%E6%B8%B8%E8%AE%B0/" class="font_size_4">
-                 Travel | 游记<span class="category-count">4</span>
+             <a href="/categories/travel--%E6%B8%B8%E8%AE%B0/" class="font_size_9">
+                 Travel | 游记<span class="category-count">9</span>
              </a>
          
-             <a href="/categories/daily--%E6%97%A5%E5%B8%B8/" class="font_size_3">
-                 Daily | 日常<span class="category-count">3</span>
+             <a href="/categories/daily--%E6%97%A5%E5%B8%B8/" class="font_size_5">
+                 Daily | 日常<span class="category-count">5</span>
+             </a>
+         
+             <a href="/categories/films--%E7%94%B5%E5%BD%B1/" class="font_size_1">
+                 Films | 电影<span class="category-count">1</span>
              </a>
          
              <a href="/categories/syntax/" class="font_size_1">
@@ -332,12 +352,20 @@
 
     <div class="tagCloud-tags">
         
-            <a href="/tags/concert/" class="font_size_4">
-                Concert <span class="tag-count">4</span>
+            <a href="/tags/concert/" class="font_size_5">
+                Concert <span class="tag-count">5</span>
+            </a>
+        
+            <a href="/tags/%E5%8F%B0%E7%81%A3/" class="font_size_5">
+                台灣 <span class="tag-count">5</span>
             </a>
         
             <a href="/tags/musical--%E9%9F%B3%E4%B9%90%E5%89%A7/" class="font_size_4">
                 Musical | 音乐剧 <span class="tag-count">4</span>
+            </a>
+        
+            <a href="/tags/%E4%B8%89%E5%9C%8B/" class="font_size_3">
+                三國 <span class="tag-count">3</span>
             </a>
         
             <a href="/tags/mikelangelo-loconte/" class="font_size_2">
@@ -348,8 +376,12 @@
                 Notre-Dame De Paris | 巴黎圣母院 <span class="tag-count">2</span>
             </a>
         
-            <a href="/tags/%E4%B8%89%E5%9C%8B/" class="font_size_2">
-                三國 <span class="tag-count">2</span>
+            <a href="/tags/%E6%AD%8C%E4%BB%94%E6%88%B2/" class="font_size_2">
+                歌仔戲 <span class="tag-count">2</span>
+            </a>
+        
+            <a href="/tags/%E8%AB%B8%E8%91%9B%E4%BA%AE/" class="font_size_2">
+                諸葛亮 <span class="tag-count">2</span>
             </a>
         
             <a href="/tags/come-from-away--%E6%9D%A5%E8%87%AA%E8%BF%9C%E6%96%B9/" class="font_size_1">
@@ -358,18 +390,6 @@
         
             <a href="/tags/css/" class="font_size_1">
                 Css <span class="tag-count">1</span>
-            </a>
-        
-            <a href="/tags/don-juan--%E5%94%90%E7%92%9C/" class="font_size_1">
-                Don Juan | 唐璜 <span class="tag-count">1</span>
-            </a>
-        
-            <a href="/tags/html/" class="font_size_1">
-                Html <span class="tag-count">1</span>
-            </a>
-        
-            <a href="/tags/ingress/" class="font_size_1">
-                Ingress <span class="tag-count">1</span>
             </a>
         
     </div>
@@ -396,10 +416,18 @@
         
         <div class="widget-archive--list">
             <div class="archives-year">
+                    <a href="/page/archives/#2025">
+                        
+                            <span class="year">2025</span>
+                            <span class="count">4</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
                     <a href="/page/archives/#2024">
                         
                             <span class="year">2024</span>
-                            <span class="count">3</span>
+                            <span class="count">11</span>
                         
                     </a> 
                 </div>
@@ -483,6 +511,10 @@
     
     <header class="article-category">
         
+            <a href="/categories/films--%E7%94%B5%E5%BD%B1/" >
+                Films | 电影
+            </a>
+        
             <a href="/categories/performance--%E6%BC%94%E5%87%BA/" >
                 Performance | 演出
             </a>
@@ -492,12 +524,12 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/post/2024-08-23-starmania-45-ans/">星幻45周年</a>
+            <a href="/post/2025-05-04-bernadette-de-lourdes/">Bernadette de Lourdes</a>
         </h2>
     
         
         <h3 class="article-subtitle">
-            为了星幻45周年远赴魁城。
+            宗教宣传剧，影厅里除了我只有三对francophones老夫妻，全片仿佛只有一个机位，舞台上的收音效果不如观众席里的掌声。但我看哭了🥹 ​​​
         </h3>
         
     </div>
@@ -518,7 +550,7 @@
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">Aug 23, 2024</time>
+                <time class="article-time--published">May 04, 2025</time>
             </div>
         
 
@@ -534,148 +566,6 @@
 
                 <time class="article-time--reading">
                     阅读时长: 1 分钟
-                </time>
-            </div>
-        
-    </footer>
-    
-
-    
-</div>
-
-</header>
-</article>
-        
-            
-<article class="">
-    <header class="article-header">
-
-    <div class="article-details">
-    
-    <header class="article-category">
-        
-            <a href="/categories/performance--%E6%BC%94%E5%87%BA/" >
-                Performance | 演出
-            </a>
-        
-    </header>
-    
-
-    <div class="article-title-wrapper">
-        <h2 class="article-title">
-            <a href="/post/2024-08-17-come-from-away/">Come From Away</a>
-        </h2>
-    
-        
-        <h3 class="article-subtitle">
-            the other end of the world?
-        </h3>
-        
-    </div>
-
-    
-    
-    
-    
-    <footer class="article-time">
-        
-            <div>
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
-  <circle cx="18" cy="18" r="4" />
-  <path d="M15 3v4" />
-  <path d="M7 3v4" />
-  <path d="M3 11h16" />
-  <path d="M18 16.496v1.504l1 1" />
-</svg>
-                <time class="article-time--published">Aug 17, 2024</time>
-            </div>
-        
-
-        
-            <div>
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="12" cy="12" r="9" />
-  <polyline points="12 7 12 12 15 15" />
-</svg>
-
-
-
-                <time class="article-time--reading">
-                    阅读时长: 1 分钟
-                </time>
-            </div>
-        
-    </footer>
-    
-
-    
-</div>
-
-</header>
-</article>
-        
-            
-<article class="">
-    <header class="article-header">
-
-    <div class="article-details">
-    
-    <header class="article-category">
-        
-            <a href="/categories/performance--%E6%BC%94%E5%87%BA/" >
-                Performance | 演出
-            </a>
-        
-    </header>
-    
-
-    <div class="article-title-wrapper">
-        <h2 class="article-title">
-            <a href="/post/2024-08-03-don-juan/">唐璜</a>
-        </h2>
-    
-        
-        <h3 class="article-subtitle">
-            惊喜的震撼
-        </h3>
-        
-    </div>
-
-    
-    
-    
-    
-    <footer class="article-time">
-        
-            <div>
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
-  <circle cx="18" cy="18" r="4" />
-  <path d="M15 3v4" />
-  <path d="M7 3v4" />
-  <path d="M3 11h16" />
-  <path d="M18 16.496v1.504l1 1" />
-</svg>
-                <time class="article-time--published">Aug 03, 2024</time>
-            </div>
-        
-
-        
-            <div>
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="12" cy="12" r="9" />
-  <polyline points="12 7 12 12 15 15" />
-</svg>
-
-
-
-                <time class="article-time--reading">
-                    阅读时长: 3 分钟
                 </time>
             </div>
         
@@ -705,9 +595,13 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/post/2023-11-09-countdown-27/">即将进入27岁的倒计时</a>
+            <a href="/post/2025-03-31-chai-jing-ukrainian-army/">柴静对话为乌克兰作战的中国士兵</a>
         </h2>
     
+        
+        <h3 class="article-subtitle">
+            一直不敢看还是没忍住点进去看，然后哭得完全停不下来。
+        </h3>
         
     </div>
 
@@ -727,7 +621,78 @@
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">Nov 09, 2023</time>
+                <time class="article-time--published">Mar 31, 2025</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    阅读时长: 4 分钟
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/performance--%E6%BC%94%E5%87%BA/" >
+                Performance | 演出
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/2025-03-09-zhuge-liang-a-promise-never-forgotten/">臥龍：永遠的彼日</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            好的終於看到了唐美雲的《臥龍：永遠的彼岸》歌仔戲……
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Mar 09, 2025</time>
             </div>
         
 
@@ -772,12 +737,12 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/post/2023-09-01-french-gala/">在法Gala重温故梦</a>
+            <a href="/post/2025-01-18-salesman-in-china/">推销员在中国</a>
         </h2>
     
         
         <h3 class="article-subtitle">
-            法Gala，是特别圆满的重温故梦。
+            能看到中文戏剧讨论文革和之后的伤痛，简直是之前从没敢想过的体验。
         </h3>
         
     </div>
@@ -798,7 +763,7 @@
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">Sep 01, 2023</time>
+                <time class="article-time--published">Jan 18, 2025</time>
             </div>
         
 
@@ -813,7 +778,7 @@
 
 
                 <time class="article-time--reading">
-                    阅读时长: 5 分钟
+                    阅读时长: 7 分钟
                 </time>
             </div>
         
@@ -843,12 +808,12 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/post/2023-06-24-historical-shock/">「竭股肱之力，效忠貞之節」帶來的史盲震撼</a>
+            <a href="/post/2024-12-31-my-2024/">一點2024年度成就總結</a>
         </h2>
     
         
         <h3 class="article-subtitle">
-            讀方北辰的《諸葛亮傳》，書中寫到諸葛亮的那句「竭股肱之力，效忠貞之節，繼之以死」歷史原型出自《左傳·僖公九年》，讓我好奇之下去讀了背景資料，獲得一些史盲震撼。
+            一點2024年度成就總結
         </h3>
         
     </div>
@@ -869,7 +834,212 @@
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">Jun 24, 2023</time>
+                <time class="article-time--published">Dec 31, 2024</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    阅读时长: 1 分钟
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/travel--%E6%B8%B8%E8%AE%B0/" >
+                Travel | 游记
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/2024-12-taiwan-taipei/">2024台灣遊之台北</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Dec 28, 2024</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    阅读时长: 1 分钟
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/travel--%E6%B8%B8%E8%AE%B0/" >
+                Travel | 游记
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/2024-12-taiwan-kinmen/">2024台灣遊之金門</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Dec 25, 2024</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    阅读时长: 1 分钟
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/performance--%E6%BC%94%E5%87%BA/" >
+                Performance | 演出
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/2024-12-21-final-bow/">散戲</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            進階台灣體驗之看歌仔戲
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Dec 21, 2024</time>
             </div>
         
 
@@ -898,20 +1068,8 @@
 </article>
         
             
-<article class="has-image">
+<article class="">
     <header class="article-header">
-        <div class="article-image">
-            <a href="/post/2023-04-15-zhuozhou-pagoda-peachflower/">
-                <img src="/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064154699-peachflower_hubd58b5eea90ff3475e2027d31ae65ea9_418334_800x0_resize_q75_box.jpg"
-                        srcset="/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064154699-peachflower_hubd58b5eea90ff3475e2027d31ae65ea9_418334_800x0_resize_q75_box.jpg 800w, /post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064154699-peachflower_hubd58b5eea90ff3475e2027d31ae65ea9_418334_1600x0_resize_q75_box.jpg 1600w"
-                        width="800" 
-                        height="600" 
-                        loading="lazy"
-                        alt="Featured image of post 古塔和桃花——涿州一日游" />
-                
-            </a>
-        </div>
-    
 
     <div class="article-details">
     
@@ -926,13 +1084,9 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/post/2023-04-15-zhuozhou-pagoda-peachflower/">古塔和桃花——涿州一日游</a>
+            <a href="/post/2024-12-taiwan-green-island/">2024台灣遊之綠島</a>
         </h2>
     
-        
-        <h3 class="article-subtitle">
-            因为对三国旧情复燃，突然又奔上访古之旅，来到昭烈和桓侯故里，看见涿郡的桃花。
-        </h3>
         
     </div>
 
@@ -952,78 +1106,7 @@
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">Apr 15, 2023</time>
-            </div>
-        
-
-        
-            <div>
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="12" cy="12" r="9" />
-  <polyline points="12 7 12 12 15 15" />
-</svg>
-
-
-
-                <time class="article-time--reading">
-                    阅读时长: 5 分钟
-                </time>
-            </div>
-        
-    </footer>
-    
-
-    
-</div>
-
-</header>
-</article>
-        
-            
-<article class="">
-    <header class="article-header">
-
-    <div class="article-details">
-    
-    <header class="article-category">
-        
-            <a href="/categories/daily--%E6%97%A5%E5%B8%B8/" >
-                Daily | 日常
-            </a>
-        
-    </header>
-    
-
-    <div class="article-title-wrapper">
-        <h2 class="article-title">
-            <a href="/post/2022-06-01-noubliez-pas-la-douleur/">N’oubliez pas la douleur</a>
-        </h2>
-    
-        
-        <h3 class="article-subtitle">
-            Let this pain become a power to get out of this shit.
-        </h3>
-        
-    </div>
-
-    
-    
-    
-    
-    <footer class="article-time">
-        
-            <div>
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
-  <circle cx="18" cy="18" r="4" />
-  <path d="M15 3v4" />
-  <path d="M7 3v4" />
-  <path d="M3 11h16" />
-  <path d="M18 16.496v1.504l1 1" />
-</svg>
-                <time class="article-time--published">Jun 01, 2022</time>
+                <time class="article-time--published">Dec 19, 2024</time>
             </div>
         
 
@@ -1052,20 +1135,8 @@
 </article>
         
             
-<article class="has-image">
+<article class="">
     <header class="article-header">
-        <div class="article-image">
-            <a href="/post/2021-10-16-shaoxing-in-rain/">
-                <img src="/post/2021-10-16-shaoxing-in-rain/PXL_20211016_074404973-lanting_hu52b1090a53429b355e801ea06505d6ee_530139_800x0_resize_q75_box.jpg"
-                        srcset="/post/2021-10-16-shaoxing-in-rain/PXL_20211016_074404973-lanting_hu52b1090a53429b355e801ea06505d6ee_530139_800x0_resize_q75_box.jpg 800w, /post/2021-10-16-shaoxing-in-rain/PXL_20211016_074404973-lanting_hu52b1090a53429b355e801ea06505d6ee_530139_1600x0_resize_q75_box.jpg 1600w"
-                        width="800" 
-                        height="600" 
-                        loading="lazy"
-                        alt="Featured image of post 雨中访绍兴" />
-                
-            </a>
-        </div>
-    
 
     <div class="article-details">
     
@@ -1080,78 +1151,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/post/2021-10-16-shaoxing-in-rain/">雨中访绍兴</a>
-        </h2>
-    
-        
-        <h3 class="article-subtitle">
-            选择绍兴作为出来散心一日的目的地，并没有什么特别的原因，大概是看离得近，又有鲁迅这张城市名片在，总该有些什么值得一游。
-        </h3>
-        
-    </div>
-
-    
-    
-    
-    
-    <footer class="article-time">
-        
-            <div>
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
-  <circle cx="18" cy="18" r="4" />
-  <path d="M15 3v4" />
-  <path d="M7 3v4" />
-  <path d="M3 11h16" />
-  <path d="M18 16.496v1.504l1 1" />
-</svg>
-                <time class="article-time--published">Oct 16, 2021</time>
-            </div>
-        
-
-        
-            <div>
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="12" cy="12" r="9" />
-  <polyline points="12 7 12 12 15 15" />
-</svg>
-
-
-
-                <time class="article-time--reading">
-                    阅读时长: 4 分钟
-                </time>
-            </div>
-        
-    </footer>
-    
-
-    
-</div>
-
-</header>
-</article>
-        
-            
-<article class="">
-    <header class="article-header">
-
-    <div class="article-details">
-    
-    <header class="article-category">
-        
-            <a href="/categories/performance--%E6%BC%94%E5%87%BA/" >
-                Performance | 演出
-            </a>
-        
-    </header>
-    
-
-    <div class="article-title-wrapper">
-        <h2 class="article-title">
-            <a href="/post/2020-01-seoul-qal/">首尔QAL</a>
+            <a href="/post/2024-12-taiwan-tainan/">2024台灣遊之台南</a>
         </h2>
     
         
@@ -1173,7 +1173,7 @@
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">Jan 19, 2020</time>
+                <time class="article-time--published">Dec 19, 2024</time>
             </div>
         
 
@@ -1188,7 +1188,7 @@
 
 
                 <time class="article-time--reading">
-                    阅读时长: 4 分钟
+                    阅读时长: 1 分钟
                 </time>
             </div>
         
@@ -1213,6 +1213,10 @@
             
             
                     <a class='page-link' href='/page/2/'>2</a>
+                
+            
+            
+                    <a class='page-link' href='/page/3/'>3</a>
                 
             
     </nav>
