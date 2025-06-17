@@ -161,7 +161,5 @@
     <loc>http://localhost:1313/categories/example-category/</loc>
   </url><url>
     <loc>http://localhost:1313/page/recs/</loc>
-  </url><url>
-    <loc>http://localhost:1313/page/search/</loc>
   </url>
 </urlset>
