@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Hugo on Nautili Blog</title>
-        <link>https://blog.nautile.one/tags/hugo/</link>
+        <link>http://localhost:1313/tags/hugo/</link>
         <description>Recent content in Hugo on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.nautile.one/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>博客心得</title>
-        <link>https://blog.nautile.one/post/blog-thinkings/</link>
+        <link>http://localhost:1313/post/blog-thinkings/</link>
         <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/post/blog-thinkings/</guid>
+        <guid>http://localhost:1313/post/blog-thinkings/</guid>
         <description>&lt;h2 id=&#34;标签和分类的用法&#34;&gt;标签和分类的用法
 &lt;/h2&gt;&lt;p&gt;因为已经习惯了用其他博客服务提供的分类、标签结构，对于Hugo的此类功能，一开始以为只是在每篇文章的开头部分，所有列在categories和tags里的内容，按照所见即所得的形式生成相应的标签和分类，还思考了很久命名形式、要不要包含多语言；直到终于注意到模板里有一个example-category才开始思考具体的用法。所以其实可以用更简单的形式给分类命名，之后在对应categories/tags文件夹里的_index.md里再去定义title作为显示的名称。&lt;/p&gt;
 &lt;p&gt;标签也是同理，虽然模板里原本没有自带tags文件夹，但是参照categories的形式自己创建tags文件夹之后，也可以以同样的方法对每个标签创建单独的页面、配置显示名称。&lt;/p&gt;
@@ -19,10 +19,10 @@
         </item>
         <item>
         <title>博客装修记</title>
-        <link>https://blog.nautile.one/post/blog-decorations/</link>
+        <link>http://localhost:1313/post/blog-decorations/</link>
         <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/post/blog-decorations/</guid>
+        <guid>http://localhost:1313/post/blog-decorations/</guid>
         <description>&lt;h2 id=&#34;字数统计&#34;&gt;字数统计
 &lt;/h2&gt;&lt;h3 id=&#34;文章字数统计&#34;&gt;文章字数统计
 &lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://oxidane-uni.github.io/p/%E4%BD%BF%E7%94%A8-hugo-%E5%AF%B9%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%87%8D%E5%BB%BA%E4%B8%8E-stack-%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96%E8%AE%B0%E5%BD%95/#%E6%B7%BB%E5%8A%A0%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;

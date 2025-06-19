@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Performance on Nautili Blog</title>
-        <link>https://blog.nautile.one/categories/performance/</link>
+        <link>http://localhost:1313/categories/performance/</link>
         <description>Recent content in Performance on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.nautile.one/categories/performance/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/performance/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>散戲</title>
-        <link>https://blog.nautile.one/post/2024-12-21-final-bow/</link>
+        <link>http://localhost:1313/post/2024-12-21-final-bow/</link>
         <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/post/2024-12-21-final-bow/</guid>
+        <guid>http://localhost:1313/post/2024-12-21-final-bow/</guid>
         <description>&lt;p&gt;進階台灣體驗之看了歌仔戲，《散戲》。&lt;/p&gt;
 &lt;p&gt;說是歌仔戲，其實也是新編的類型，講一個歌仔戲劇團面對大眾媒體、流行音樂衝擊以及時代變遷的反應。我本來就想體驗一下在地戲劇，加上這種講演藝行業從業人員故事的題材總是比較吸引我。看了之後開心地發現比預料中更好看。&lt;/p&gt;
 &lt;p&gt;劇中反复強調歌仔戲是「活戲」，沒有固定腳本，只給演員講大概劇情，靠演員臨場反應。然後戲中戲的部分就全程出現了超多戲外意外延伸到戲裡，每一個臨場反應都有夠精彩，全場笑個不停。&lt;/p&gt;
@@ -23,10 +23,10 @@
         </item>
         <item>
         <title>首尔QAL</title>
-        <link>https://blog.nautile.one/post/2020-01-seoul-qal/</link>
+        <link>http://localhost:1313/post/2020-01-seoul-qal/</link>
         <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/post/2020-01-seoul-qal/</guid>
+        <guid>http://localhost:1313/post/2020-01-seoul-qal/</guid>
         <description>&lt;p&gt;有幸能经历QAL Concert，对于我可以说是追星生涯中的里程碑。&lt;/p&gt;
 &lt;p&gt;这是我第一次喜欢上这样世界顶级的娱乐人物，既觉得自己终于“主流”了一回，又隐隐觉得这一次他们对我来说是真的遥不可及。看着从Live Aid录像到近年Queen+Adam Lambert演唱会的纪录片，现场洋溢的激情让我无比向往自己也能有机会亲身体验一次演唱会现场。&lt;/p&gt;
 &lt;p&gt;直到2019年4月17日，突然宣布了2020年春节期间将要在日本举办QAL演唱会的消息，看着他们即将来到亚洲，让我心里生出一点希望——虽然日本的门票也好贵，但也许还是可以梦想一下的？直到一个月之后的5月16日，又新增了韩国的两场，最前区的站席票价只要165000韩元——相当于是不到1000元人民币……这差不多是全球最低票价了！&lt;/p&gt;
@@ -54,10 +54,10 @@
         </item>
         <item>
         <title>19-07-23 米con</title>
-        <link>https://blog.nautile.one/post/2019-07-23-mikele-con/</link>
+        <link>http://localhost:1313/post/2019-07-23-mikele-con/</link>
         <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/post/2019-07-23-mikele-con/</guid>
+        <guid>http://localhost:1313/post/2019-07-23-mikele-con/</guid>
         <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;之前既没看直播也没看首页任何一段视频的我终于知道为什么之前那么多人在说My generation了。这个迷幻灯光（甚至让我想起snm里邪教狂舞那段），加上米Sid共用一麦对唱，加上Sid抱着吉他上蹿下跳…就，好爽。&lt;/p&gt;
