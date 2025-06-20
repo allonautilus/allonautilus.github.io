@@ -6,7 +6,30 @@
         <description>Recent content in Posts on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.nautile.one/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Jun 2025 01:05:21 -0400</lastBuildDate><atom:link href="https://blog.nautile.one/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>博客装修记</title>
+        <link>https://blog.nautile.one/post/blog-decorations/</link>
+        <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.nautile.one/post/blog-decorations/</guid>
+        <description>&lt;h2 id=&#34;字数统计&#34;&gt;字数统计
+&lt;/h2&gt;&lt;h3 id=&#34;文章字数统计&#34;&gt;文章字数统计
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://oxidane-uni.github.io/p/%E4%BD%BF%E7%94%A8-hugo-%E5%AF%B9%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%87%8D%E5%BB%BA%E4%B8%8E-stack-%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96%E8%AE%B0%E5%BD%95/#%E6%B7%BB%E5%8A%A0%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;使用 Hugo 对博客的重建与 Stack 主题优化记录&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;总字数统计&#34;&gt;总字数统计
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://thirdshire.com/hugo-stack-renovation/#%E6%80%BB%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%8F%91%E8%A1%A8%E4%BA%86x%E7%AF%87%E6%96%87%E7%AB%A0%E5%85%B1%E8%AE%A1x%E5%AD%97&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo Stack主题装修笔记&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;系列文章&#34;&gt;系列文章
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.loikein.one/posts/2021-05-28-hugo-series/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;在 Hugo 里显示系列文章&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;图床&#34;&gt;图床
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;从零开始搭建你的免费图床系统（Cloudflare R2 + WebP Cloud）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.yfei.page/cn/2021/03/lastmod-hugo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;自动添加博客页面更新日期&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>散戲</title>
         <link>https://blog.nautile.one/post/2024-12-21-final-bow/</link>
         <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
@@ -1142,565 +1165,14 @@ Tatoue-moi还那样仿佛在我心尖上跳舞。&lt;br&gt;
 </description>
         </item>
         <item>
-        <title>Mission Day Valencia (2017-03) 游记</title>
-        <link>https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/</link>
-        <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/</guid>
-        <description>&lt;img src="https://lh3.googleusercontent.com/U02MnYr5sC5NHyAhSkRBSGg2eB6212GsurCiV5KOrdWhwMeMLnlL800lyvNei1bYQzFezxgg7gXa02XVe4VCtkEKdJR8QdHsh6Mu-WUf3yuVpb5hncUbOZUpAr73fmHBzNUzFF5-cfiADexCR0-yb2wsDWewbkEutig3wIM-eCuZjLh93LvaRmZe8aQ_pSST8gILmg7iEvOfYi0wVCE99_7EQJ57zVDfL-kjASySAhO52FmV-Aq_G5-8RpHwjdE9IuuGHYXNSqoNNjn9WM3GyI_hdPHW-vqAzA32VwzHfuJohfgup87YeYYmQusrqU3qZ-RcKw-8YiDJ5q_2kCDQ8PzKoBc2_7MhD7YzYBOVLoCislXQZS0tkZ-rT3LxyYGy6r3XJ1YsIE5sT2w8GHHH7VVTUZ__wjozE3oYC3_AyxURLn5VTv8THpPbcKYxGgdq6hMIf7L0tCVzayAXh88LLwOBC6M_O48Af7pF_lPw-T6vcJfeAOobUll3UZTLpFoL73liLYmJRxSC7CkkvOSwinwv05t9gqPC-sjLYD-f80BWcfMNlG9GPd6DVxGdN423yhUu8bZ_-iAJ1Elr0zT27ZB7h_1DUk1cTNgXTt_IEA=w1338-h626-no" alt="Featured image of post Mission Day Valencia (2017-03) 游记" /&gt;&lt;p&gt;——纪念特工生涯中的第一场 Mission Day&lt;/p&gt;
-&lt;p&gt;驻法国蒙彼利埃（Montpellier, France）中文特工 &lt;span style=&#34;color: blue;&#34;&gt;@Allonautilus&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/U02MnYr5sC5NHyAhSkRBSGg2eB6212GsurCiV5KOrdWhwMeMLnlL800lyvNei1bYQzFezxgg7gXa02XVe4VCtkEKdJR8QdHsh6Mu-WUf3yuVpb5hncUbOZUpAr73fmHBzNUzFF5-cfiADexCR0-yb2wsDWewbkEutig3wIM-eCuZjLh93LvaRmZe8aQ_pSST8gILmg7iEvOfYi0wVCE99_7EQJ57zVDfL-kjASySAhO52FmV-Aq_G5-8RpHwjdE9IuuGHYXNSqoNNjn9WM3GyI_hdPHW-vqAzA32VwzHfuJohfgup87YeYYmQusrqU3qZ-RcKw-8YiDJ5q_2kCDQ8PzKoBc2_7MhD7YzYBOVLoCislXQZS0tkZ-rT3LxyYGy6r3XJ1YsIE5sT2w8GHHH7VVTUZ__wjozE3oYC3_AyxURLn5VTv8THpPbcKYxGgdq6hMIf7L0tCVzayAXh88LLwOBC6M_O48Af7pF_lPw-T6vcJfeAOobUll3UZTLpFoL73liLYmJRxSC7CkkvOSwinwv05t9gqPC-sjLYD-f80BWcfMNlG9GPd6DVxGdN423yhUu8bZ_-iAJ1Elr0zT27ZB7h_1DUk1cTNgXTt_IEA=w1338-h626-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;一切开始于2017年2月。注册账号六个月、正式入坑五个月的我，当时正在例行刷ingress.com/events并对着千里之外的活动举办地望洋兴叹，突然就发现新公布的一批 Mission Day 城市中有一个位于西班牙。&lt;/p&gt;
-&lt;p&gt;西班牙？总算有一个近一点的了哎。Google Maps 了一下，Valencia到Montpellier只有六百多公里远！&lt;/p&gt;
-&lt;p&gt;然后就开始纠结了一下。&lt;/p&gt;
-&lt;p&gt;那个学期，我每个周六上午都有课，而且MD四天之后我就要去考报名费170€的 DELF B2。然而再一想，这是我为数不多的有机会参加的官方活动了，而且，如果错过了这一次，还不知道下次再遇上附近有活动要等多久。于是在后来确定了3月11日那一个周六不上课，并在内心向自己保证要在接下来的日子里更加努力地复习法语，便RSVP并定下了去Valencia的机票和青旅。&lt;/p&gt;
-&lt;p&gt;这次MD是在当地传统的Fallas节庆期间举办的，虽然节日还没有正式开始，但是准备工作已经在进行，而且也有前期的烟火表演。&lt;/p&gt;
-&lt;p&gt;主办方的公告里还特别提醒说，这次活动跟地方警察局报备过，所以如果警察因为你行动鬼鬼祟祟而上来盘问，只要跟他们解释说自己是Ingress玩家就好了，如果警察还不知道的话，就告诉他们这是个跟 Pokémon Go 同类的游戏，可以把玩法演示给他们看。（所以小畜生是有多火……）&lt;/p&gt;
-&lt;h2 id=&#34;3月10日&#34;&gt;3月10日
-&lt;/h2&gt;&lt;p&gt;周五这一天本来有两节课，但是为了赶飞机就只能都逃掉了。&lt;/p&gt;
-&lt;p&gt;一大早便从宿舍出发，通过 TGV Max 订了从 Montpellier Gare Saint Roch 到巴黎CDG机场的免费TGV票，TGV上的一个上午就在愉快而激动地玩手机刷微博中度过了，电量还剩不到30%的时候去拿充电宝，才突然意识到了我带了两个充电宝却没带数据线这一悲惨的事实……&lt;/p&gt;
-&lt;p&gt;吓得我把手机打开了超级省电模式不敢再拿出来，还好到了CDG机场之后在Relay便利店买到了6€一根的数据线，质量非常不怎么样（之后没用到两个月就坏掉了），不过至少靠着新买的数据线开始充电之后终于又可以愉快地玩手机了。&lt;/p&gt;
-&lt;p&gt;在候机时遇到了一名看上去非常商务精英的中国男子，在Valencia工作，西班牙语说得非常6，此次从北京去Valencia通过巴黎转机（坐的还是头等舱）。就随便聊了一段时间，并听他吐槽了巴黎的安全状况（“我这样拖着行李箱都不敢出机场去大街上走的，巴黎这种地方怕是没走两步就要被抢走了”）。然后就说到了我去Valencia是为什么的话题。&lt;/p&gt;
-&lt;p&gt;我：“我是趁着周末去旅游的。”&lt;/p&gt;
-&lt;p&gt;他：“旅游的话应该下周再去嘛，下周Fallas节正式举办的时候才是旅游旺季，游客都是那个时候才去的。”&lt;/p&gt;
-&lt;p&gt;我：“其实……是因为一个游戏活动在这周末举行_(:з)∠)_”&lt;/p&gt;
-&lt;p&gt;可以感受到大叔内心os：现在的年轻人，周末打飞的出国就为了去玩游戏见网友？&lt;/p&gt;
-&lt;p&gt;我只好解释说这是个官方活动，还是跟当地旅游局合作的，才算是稍微打消了一些他的疑虑。&lt;/p&gt;
-&lt;p&gt;本来这周似乎法国的机场在罢工，不过我的航班还没有受太多影响，于是晚点了一个小时之后还是顺利地在下午到达了Valencia。&lt;/p&gt;
-&lt;p&gt;下飞机之后，我一打开Ingress，就发现机场周围被扔了满地的 Portal Key，我还有些惊讶地在群里吐槽了一句。不过后来才发现这几天的Valencia到处都有agents乱扔垃圾。&lt;/p&gt;
-&lt;p&gt;青旅就在Valencia的历史街区，距离 Mission Day 任务的范围也不远，可以说是非常方便的位置。&lt;/p&gt;
-&lt;p&gt;不过这次住青旅也是给我带来了一次难得的经历，当我 check in 完到房间里后发现了另外一个男生时整个人都懵掉了，才想起来之前预订的是混合房间……不过作为11€一晚的青旅我还是挺满意的，反正之前就听说欧洲的青旅很多是混合房间，也是总该体验一下的东西😂&lt;/p&gt;
-&lt;p&gt;然后便开始跟室友小哥哥们聊天，有趣的是一个六人间里两个小哥哥都是马赛人，于是和他们用磕磕绊绊的夹杂着英语的法语交流……当时完全对自己产生了怀疑：像我这样说话都说不利索还考个鬼的B2哦！&lt;/p&gt;
-&lt;p&gt;安顿好之后，傍晚就出去做Fallas庆典期间的限量版拼图任务了，这套拼图还是组织Mission Day的当地大佬特地为了这次而申请的。我查了一下这是个什么节日，不过也并没看得太明白，大概就是当地人放烟花并载歌载舞送瘟神之类的吧【x&lt;/p&gt;
-&lt;p&gt;当时群里还有人说“你们小心哦，这个任务有一段是在红灯区的范围内的，建议不要晚上去做”，吓得我问傍晚七八点时那里是不是安全，当地大佬让我放心，于是我就放心地去做了。（大概对于他们来说这个时间也算不上多晚吧……）&lt;/p&gt;
-&lt;p&gt;任务路线有一些地方在历史街区，但是也有另一些地方在比较僻静的居民区小巷子里，不过我倒一直没有发现什么比较明显的红灯区的迹象。路上还遇到了好几波其他的agent，鬼鬼祟祟地像是在搞大新闻。后来做到一半的时候，遇到了一个在做同一个任务的绿军小哥哥，作为熟悉路线的本地人热情地建议我跟他一起刷，我便愉快地接受了邀请，途中一边抢 625 AP 一边用彼此都说得不怎么好的英语聊天。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/5o9NB3lI0WWzzT5MuEQNBzqu5TthWGhXOF4dFTsUi9dWLwbFuTDp8U1p5cJCH3tfk4_sbB8HUw8NYZ8CmlPd3-5wKyTJEWsJCnP6Ar18JQvMEU1523ow1MtQQoB6w5qUOc5y5gb_G6KCMjZsgaC2tBC5CF6zJZPZgnCpivPla_4uziQJpoVbo0ntmjbiakjGPt9wH1PRw-KJQcLfU0803XM8KIrPpI9ue1UJQHZu49Rq2QUrEfy8ChDfXekJdeD47pASSqNHL1oEXdshsG5zAVYLdNlNoiIwyoQw2WftIyMQc7QKJUe1XvI-Vb5b4I4Pf0R1cYDzcoKrlQAraZiS8gnMQuJZTmzy3rfQir-s1IXRCyleO9P2znVQ6IC0oMdWIzditGCy7NTJ2ALfoVUmFjCFaFdJXCzRvI3koZdlWtv2FKGXkTF2xTozPdPL2AL-tHEiEdexFNXxsVBWnJnO7fuW4zsPMdhqmTMBDHoWSXxjhbjpSvZWAVSnrKcFSuc-LYOykF81JGZDFGCnVNpQ9EFbHZjP8yGt8B3a8-ERgSRIDuhLw62rUjPvRJcdifQ6KzoH1x2mnvlBANEM9wulCblWFMaL7_aaHAu2JQlEOw=w539-h366-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-&lt;a class=&#34;link&#34; href=&#34;https://ingressmosaik.com/mosaic/18758&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Fallas&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;被切了之后看起来有点乱，完整的图实际上是这个样子的↓&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;http://d24wuq6o951i2g.cloudfront.net/img/events/id/272/2721822/assets/1c1.specialmural.jpg&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;刷完这套四排任务之后，我准备再刷另一套单排任务，不过绿军小哥哥之前已经做完，就先自己回去了，我一边跟他告别一边在scanner上点开了第一个任务，突然弹出对页面“请输入通关密码，@#@#$&amp;amp;%*&amp;amp;@#%（西班牙语）”……&lt;/p&gt;
-&lt;p&gt;我：“What’s all this???!”&lt;/p&gt;
-&lt;p&gt;小哥哥哈哈大笑着帮我找到了一个西班牙语维基百科的页面，原来那些密码是一首关于Fallas节日的叙事长诗的短文填空，面对着一片西班牙语，只能逐个字母地对照着填，不过好歹还算顺利地完成了任务。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/RnGKXBLSzMkrz64MqePw9tVl7KZyR_PByaUTGW2QlmNEWK8nACKi-tHWED0597gXMj5HRz0EMfla4MrWnvIYQlCS-Qk6b63bJ7GZZiOkL-PTF3XYB2-WRmyvbzuhYfCiyli0lCrOM7gsAoJo5ocLo_EJmBW6rK1RERdrbNxuo8qeFjliFeqNrkOVUV2gKXTdzypSRFfQdtzuE4QNgVNnniwLiUdCjSFqW8Pqj27fFVD7uEoh6z786XhE9irHY5OtaLr8SbjyaxpQvg5uBx7OLwEcjAzgs1clRjS3t0Q0KiwWS1IkqnDWNlru8RhA-O4ASvyGd5lbjFivel8wRUxP8TDDjTxmiTjC6qt6t8B74LJB_5zI4aj5vOM3egT2PUbjV9YKdc8yziDui5JNZSronTiuNp5Q7LML1VSo-2tPDrfvS_6UL8eMDiE1QvCiERgcgYgT91HOqnf7njeiIwIiXxPiPK17h4fhDQciGzxnIUW1UQVhrj79nxiLNyXcdhG50d1EqsT92ji5lQwArp7erk2dtbAVrt08GYVaMtBgiP72PRnBE_OyN9_WLy4KinbHYkFSv1wlwHukHeUb4c99olTSk0p-C-L_4UOjCTzEuA=w653-h114-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-&lt;a class=&#34;link&#34; href=&#34;https://ingressmosaik.com/mosaic/17975&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;FALLAS 2017&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MD前夜22:00，刷完了五排任务后满足地回到青旅养精蓄锐。&lt;/p&gt;
-&lt;h2 id=&#34;3月11日&#34;&gt;3月11日
-&lt;/h2&gt;&lt;p&gt;毕竟对当地不熟不敢夜刷，乖乖地睡到了早上六点起床，六点半开始出门刷任务。&lt;/p&gt;
-&lt;p&gt;主办方体贴地准备了一个 Google Maps 版MD地图，每个waypoint的位置和行进路线都有标明，导入之后只要打开Google Maps就可以轻松地按图索骥。&lt;/p&gt;
-&lt;p&gt;出门时天还不亮，沿着任务路线一路走过去，也还没有足够的光线以好好欣赏沿路的风景，只有路过市场的时候，看到摊主开始摆摊准备卖早点，才算见到了点人间烟火。&lt;/p&gt;
-&lt;p&gt;就这样在寂静中等到了日出，天亮之后总算能欣赏风景了。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/i_gJ-2xNrHqaFSd6uFrdGfyxg_AfJUP4Ov0xtZY1HEtko4jCA2-w41CkpnPRyAX20VA_WfazgDPcbL2IyacvKuDQdbLU3MGjr5-BMF5_ceR_4AwiWa4pqqEmtRYJsQRSLrqnI1Iq1ktAdmtj8xfHFAu_3MrafylllbIPCCFzsp2H4T1MCJOJhxKxf8kCjZnnGCHb19p58EwD_mi-9kVTpFyyxCtkkp4on4MBYxfPg307vccnxuCTwMg8rQg1sxTITKa-fY7TUOsVCqv_LDYi-as1pR1dzdfjajZIM1qyV3m00moEhtfceoQnKsA7TdoEv8dfTofeWL7-Zk5bA31d3ok0orQCL7S7i1TPthSdH6Q0Gn7IrSALM5AfbYXRiqnVEjA_7r_TAt6VWLm-MC-PQhrjWgSPk2l5coaehxQSDvyQn8ixOjqt88gRZUxXeZlU67gQU1rwdeyqPeRKeXRdUOy2U2gBfBUepDl0agw8iVuxjYJPMHMaw1WLhvWfZwiBGxtzzrG3TfqPjqP54S9yxbz69zAZ5fk1yo0zTzq57QlBxgb9nuwgzObl4y75bnJnoNWMOzE-yNOtGU-jFENiKQaSEfpc3xFr0ccNipurdA=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/FmPkoCEojhjToOvM6oe5234TMwz1LJS61srIR8pQW6Deij79SGMvFoLE64tWW5ByLQHkHPA9VfOSWy8cWFGTuTkH7F741BLBjOeUY5huftoScPCcRealva4OvAzjv9Vn1eY2LK7_PffuOWPpYr_tGwYZvguNhsn1vam-zMWFR3-PA3T90TxhUzI5ERIjW04Nn1yJSQoJCR8mxkwVoT17pvwVHhkUgKvJB29JJD4YucClfDBoRgHGPb4qt_X2UI14aL7Cyq7KdJUJffbBOgP3nS8x3ywfFTUDV3omt3ItyacGDlM1e51ZZkXGuD9yyNZlKlpu_2ov9WUuSYSXYXnRxlxvSj3N2BexuO0mNBvCVP83zFBQy7fZnVpkYgw9sCK_q7_cj-P7H0fnaJmtsKCdN36G_VltDYQUK4ATM5Mj62oBl4TGzT5q_N2fbpwGe5KKO94SXzabnPsJGvkLXK2glyQp6tGouLJIwlw5xaoAEUlmUhDTdrpL5brcWm2D2NoYy6pu3NeWFiKtcsx2lX7U_VrKnhrXYXdS138_wJwbIwoUFvQC1fiQ46QKKFM8Gg7VYH_QlEbNLP3pssVykUpjBHLO_k4onn-rEH7dmmbJsg=w595-h334-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-老城区中心小广场的日出
-&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/dBTAkjTaFRzDO3mXbtBRrGEaQwtOfAosOOVz-QpxStWunhu1XQzgnANgx1FkRowNBbYS2jlVOudRIIW-e9MlC28jVM4tP0zzCopApjtw39XdtMsBqGlA5w9xEGCGxwqohTBOZSYtrfZP0Jlx7ya7Pwr6bq-_x3DjmRWwJ9Fu3a3K7A8LaQuU8D3OWWHBbEHnixDDGJl-q6f3JKJKE8nRwQ4n0AfMaxbTbTT5Fa2lDC7ovMHEquES9it4top4D3GbiJN4oGGZ7_SHz9ViOqBNn0qPTmxA6jqWa5_GH6gS4olQFJHZET8mTw2ncNKjVq6eDp0owI1G43vFMBXzrwB8EVTriYY3F0mrJkun0XrwpzeKT0fv8qvotSILviS4C4U0veth2F0XsxVwRb99HQdIRUd9L1HoPt18_eNklMSr_TCOD7HiEPWi0C53B12ENf64PMKegduT573SVh1cntuT0iARQd5lfyqmck0hiUDxrPdzouQ8wgxt0VuVkcfxaYOvS8fCvKuj2G4KJJidtpXbTM18WdvQy3TtfopZgoABqjE4zzmmZazV3GYp8HgZUg2btiUjlH7e65QNrdv5eqg7I8Tx8YYOAOkryM9va1xpLg=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-路上偶遇一个海王……
-&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/fBxjzjPZbGoytTCe__ZZikayFPcchSRLwDhoJ4_Ooc957grhS3tkMbiAuGUz0iKI7E6ayB4RABkI8iF95tB-BueK8gWjYYIm_vhr6k8Guw_AEhJYlp-VQ0g8K9cok9Xk-ml9mV_Wpd5_t4ta75aP0LZ560TzOGm32Cf9Y3vKUgB8H4wI2s37UMbnCa239Jrocr9wITF4T59FpsOUqAYAyvXoHUrMfqJUOrlne9dKnUcdIxvXhU4rFaW_z8AOALr_IvENUATK-jZhUjRTCG-wl6298cxxJuUFfkJ55VyU39In8TCNDzJdS6jBubkHE4lEM55Ma4yQ-aEhjb47AdB7u1apqMmV7orErEdnzbFQxdQ-xcz9XChnQ-OhzB1XY5aXb_ePvYfdCuEVtNDCq3fY5aSFwHGSuF1M7Jsk5PwLMWiyczn66H0QxgYaZDIQ2j1fyKg_c9ytNM9Ni_1YD4a7Batig2BjbARXge1xx9V3fHPRzqvt6jUV1vxpgd_ZzloAlTgz6xi0Akr7_CN9AWAQ7_g_RlL1PRIrJG-JVJN0g2owGBxGTrKSnHDWw6JMVt40AFJKIYrz3KuKieUJ3d3KGbwUxnFThUNh3m1bKeVhfg=w358-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-CORREOS Y TELEGRAPHOS……大概是邮局吧，为什么别人家的邮局都这么好看！
-&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/hsdlLpFGalLIfLIvGBq7EAPidf_E-PhB7gcCU7Uqg-wWQbyKhL2VSO7OJ4Sgqc9Vz5qhdZUJ3Am-0ynubDpZ4hQYBcHt4fPsNESZIbACxr2OdiWJbzhMi5KTJxlwoC_m7uxLwEy5eVgwrR1pznIvOM-_qQKvdCTniZsEpKlD2fp1K9Ys_qEJ4SX9WtZ4jXTjZTH-VQXwH30XvINWUuzowHtUF0dTlV5rMUyA879Rq0zk6tm9k9WHngg4DCcg12SF4TIMPuC6TkRG5k8aaArqpDqzCuP9IIUNx_6ieS2FIvKcsEpnhX5h8hvGf53SvdekMTyP2dPiR_45XEaGeP4IvrjpgI8nCrlOkyQG-8-6U8TQy47BEojOW46hEHwZqhKQB3orNNDx-wPn17Gsi2uCnDtW2vwV1QMIe59y1TuQr-KBXXr6yXEsmZa2qBRMeA1aX4tsF6cBpXYuyVg3A5OP61_sa5hcvBM4KKfaC4sbMSbm_FzMHSA33yLahB_NSiarjN2egzxCeQdS8_Jq-5IP-dKnzzhmTLH97okckV5_L4NmvCE1Hfh5bRc-0NJGM0LWtHl3jOTCpCeUlhQ-5yDu19Yw9u9MFQiHvxxiTfs8yA=w455-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-超好看的不知道什么建筑
-&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/yWfVW3HpgMp9nDuKrZRSJ3kkoOatGYOU6dUNvgLYubvjupwNQTyZIpqZThfWBMkjL4QUSe7E8FO9xJW_YrbSAr_LxniD-tHHzlm7wYWIhi5hPpvCEuMhYPGbjdbWeV74eAzPsob-Tod0j_aspiIuGBU564_m_LzCRw1fGZfrYQlX-GHHtV4H2dP0GLcPBgKitziOtanO2cEWs1XUnCDp6VN1pMLcUQ0ShhfC9YjClPjNu8fOqv2n_x4IglfEirHDiSK2LLnR1A6OTLeU1R_2FADeAIdnMcKQO2U74K0JZXHn06Sv3QyHhgkgA1hiGOrYBSgfJ-VxBMhyxrUF4-RryLK72_rki-J6roe3Y3spKZzsx3FpxZwwINXGksJ3xkWKOMKJ4N5GZ8ATgChnuCBl7K22g8aPayg45oY7BN4R1WAxkSr5kQgh9rFWQUEQntEZF7AtCrY5yMhqBZegMxwfQ3zzDRlufo4Mz6CMOsFkJTYxpdTSi3p9FjIWmNSj7GOdzlwmNP1CDfscZA3m3xAlV-GthlmpEyYSEuGkYVN04GMOPN7kRUG8qZaPqEIUevMOiFMGmTK_c_I0gj4SIOkfKj3AhyBooxTIt85Fak0JOg=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-超好看的火车站
-&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/seCclIfaALKle02HBsGjPTq1Lk25LgvO6tcUxIHKzjbpRfquyjGrHAWJW9-oD7dPZv8ChGwlZcKeRGtnA34MhDF4vgQdkx4LLz8MbVB9106lGf6WbsNUrdUW7ggrAxhZZ8DM-RWIJC_eMEW1f4ueqfyRa7UkQZ_lWwC6817tO83NF5P0loAWeNlCR7FMD93ENyvLEqD92XNybqOgu3eCnlPZJyK-62K3zg_Y7vqYlb63FMIsQNWsCTrPlE2OaEOQnAnKDn73V9Ny-cTixRhzwwqQVBdWa-YasFzbWmmJKkPudGkOyT5LkRyDVMZDoWEmolDiMh_yXZwCq9DhOB28MXl1_gpxljY96eY0QzDRkqJeu2Qvx0r0buUygVlIbLLKn7YnDiwOHsSlwn7JrduePKc_a9cfw514tsrc72jcS3mUn7wN51rs6AhVCV2dHRHj1Qn7KAKvIYael93X5kXA2y0NbFP0d2BmxLhBjXYamzkqp7w9mh-B4GpQZg5FhTbntm5ex-6CeSv0mQxxnYzre7GfaB9yu3I7XYZFyt1uIPXctZdc4JsmVBR1zGKldlxIXWrUhYBLZF0mRJTZ7sHN4QmBP0mfSPpWlIAFN_3njw=w848-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-穿着传统服装的可爱小姐姐
-&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/7orW-TqjKtkuBUBmDHsIgqYRRM3HImfnRHD9WxebnDRKJs1XvEvLQ-j-VDmBcOgbFVL8qGHVvN2gUFFRYZGG6YPYzxkVq14302gdqIWUQo9OJojBWTa3FbsQuy7d7SEAQe3UNgMprdQ1ZoTGfwIWzTifMH15NmFwifkQrsEsODLfEbsDJ-TDT223a6UXvwxrTaT4R8hJ01xiv5bTxrvqQIg85qWyO5SiJi_ozN_aYdSCHAFnMpDHsNFud4IR847zaP5MqR4zt463v3jcpCjb2n0CmnzZiYKsdzMuy3kTmD4U1cKgaZ-YzoCh-rcq2n1HU2dFDsIgONvFNHyiiTxSuzZH1xC1xtoTHSrPORBVN8OxRXx1jm_klBgPPXkO_587bBHXhAsjjriOjyILjfkiEK8bWKkOclh_Gz-9gkTptP3JDEnYFMWdldzI_2NOTtEOEq_6PJwzuVLQJkDj2A2KSwc7LhAGU-MmOT5N1ZhdQhYDj2nA-qUrGmPZNbViReBm8xhdt_FF-POk9pxVpO_yY7qF15Pe6CQVoRMBOeSAxDBoUFLMe0Uey6VcEu4BHVNEU2_I5tyEb6fMbkvhLImyXd-DE0C5ukuEt5d5lnj1Rg=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-给游客合影用的豪华敞篷车
-&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/0fIbn4vRigCgu5EayUyPt-NqG-q8bvYQ9BaV6Q7w7SP3LIWH06Qc-yL_zewnRFp3A8O7DflosmOkHlKLZZKpHYeIA2l8Uv05ZWVFwkFwVlh_W54VadkIm75XqCU1ijWKJaH8V4zgjW_C1w3QDnRI5Jo9mfLVpgxyRES-geYyn0fyoTtixBoyGJ0WXYr7-E1zmm-lZSolTYM_ZgK8UhtLxp6fGMSxH5K3ALOJOnpfxEg2t6D2nWTcro7Ifi_7k9M550G58ut5-w4Fg-vZiMqfAPZ8lNYQ7_ss7Em7qRq2STPy3GBWGhLnrAI9-o_BZDjYX8T2s9F_ObK1c2D8TJMEiEo3KI7q7huSDgmCECZn8W4ihHLbcmY6PJm5yA6dAIhTysaobz5qguzV7MjQiYcTQM_nK9hF5tzrhl55l1TpdBIDXP53kFo0eBQiANEX1dvwCbdnMGAtaixgzbqLNS26BYyriSrndNxTOIlBstPju-unaw6RvzdCzgaWBVZs4XXKYPiUOBKoV0sHjRrjASCoZY0VBQ9saFN0hcWb0rVHVBVPEauflkK5PoMzlP8t4FJaV26fPmEbHtZLhTlMEmKLWyRoXY3qQT8vPTfL4Kb8Eg=w269-h404-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-神奇的不知道想表达什么的不知道是什么玩意，据说这些在节日结束之后都要一起烧掉来送瘟神。
-&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/nW-3nEs8RFhrSsbVlu9Uj9dPUhQcDt55V9KUZTRYCUCaKnKktiGrgD1trmQ9i5b7DPZV2D3cLe2_9RldmaGkEup7hTzj-HbEnIC2wH02nuA3YGLPLtsq2Qmig5LP67GLhZbxyWoXlBODofIy4ZqxJgZ2Q74oNsrzqOWc2YTi3AEucFGkihYtlGTML7A-D6DsKBiktS_f3wF11uQq_IGPuYel4uFsw0Wp9sL1kgFwb9vNR8OGlyPQTog74sCfqDZwdCwNQ2XN-Z225waj13lez32mf5kvACLVXqOeuVxUyV7pBPpyr_F06DDnJKr78a9xyL0LFa6Yi9IjRxEa32YHBcTzvItntkOfEW3fqL27Udrrrpxu-yg-7ACfuLg_tdZvlweqDOlldElz496EvWaiTI9QbDfG_L-cCGVlZXc0LlBS6_-bDgFld6p0RdwsMz7LpV1D0hZJv62nxsCSE7zM9Io9Fje9HUUjJy7S81CH74YjYFMtnyyS3fVjcr3Lo_dSsXnosEs5SSGjMW3ys2-RlkLuReNtBECtPbFSqh_GLLPqW999qiPuVa_Zgmh8NtLMEvuCiVh3b6z19MAn6lHHnnvBFgWF2QvyjZRA4gJvxA=w477-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-巨型毛绒胖达&lt;/p&gt;
-&lt;p&gt;这一上午就在一边慢悠悠地做任务一边欣赏风景中度过了，走到了合影处，可能因为挤在一起等的人太多，就先在一旁提前支起桌子办签退。&lt;/p&gt;
-&lt;p&gt;这次MD一共有24个任务，完成6个就可以低保，这一点之前在群里还被吐槽“别人家的MD都是12个才算完成，你们这边变成了6个就可以，是因为南方人比较懒吗？”&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/lV_Lyy0pzB99RNc9oqyW1qluPbhX-PkHLqbUt5OcSRWqWMPxHu3jEwraFGHotbnaDt6Jkdl9qCmeM7myX-FCbrGl0d5_KxQoeckjETlBFFhcUei_TEqBFotzSw31D7aQV0UdSRL2QtxQoutDUVA8bcd9JHORgdCSHVBUFgRfnyJzOvjSYNzzJ_xNa0XDRW_7HTWeUYN7PnS964EH6QSRJaGqy1X2Es2Vs8v-s-u79hNRcJNnEwU537Q-Mv22ST8JUnDlb-CpQE_tE7ELP7mr5SZmQo5U8_-cPsVsjMURGCnD2KYueRgriAvw97w3N6DRdRlAbKVdXldCwAXvJQLEOSgbKbuCuTbXzvOUTTuX-WlHzN_Uzy3k6Rwk_sFGKV_6JpcmQF3R5uRe67AhTlihINefSYTtpj-klZA5T-73biEODYdw8QvDyGIkE2_SA3njjtEq1SWu8Gd27BanzHGr62xMc8SudumLTCEUa6GWVMLg_QPdQ0oGzlPOoT68w77eA5e7chlB0QAeURL6V_9QQA5YaQLZpgjhbuQ4oXYxB70FentpmqTS7IvFSyyu-N5hjd13Fp320JcKH9la7nAyWSGtMvEaW-HYP8tHh30eBg=w561-h287-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-而我当然没有制霸&lt;/p&gt;
-&lt;p&gt;每个玩家可以领一个免费pack，资金来源是群众自发捐款（包括paypal和现场投币两种形式），现场捐款箱做成了红桶的样子，超可爱。我见到红桶没忍住，也默默扔了个1€硬币进去。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/0vkZ9Hhn49CZug-ZI2sGB2dDcJR2rF6USUTSxi0bNemC6FVl_24B9gXbXEOvRuNw8AmBo-22e7mP_M2C956WRo42JMIZ3G09e4bIWMf7aLLkSs9zmyXio7zRX3FVjfH1P8Wk0inHeD8G9UOXjiEcqocy2frap2uJqdVw8fKC1QsfdaGYt7u3TWCldpeNmzjIWbM94H9XlJyZh7bMPlAKrQqj0vd7NQhTBs4lObukkuKXgvnAa0cO6FseBYwKRP-JbgOKMeDOPeCsIsI3NhIWisbRU1LLlEBsssd2WqoN3w8kg5G5ldackbhVbkPRylu4xMQgOSG6UY0PpEQ4Vpys4SZLpbN-OVnLWvVisvtLab3DM3JLF78j09d2vDkJdhey2MLvQN-x8-SymBx8WsvM2QoO3wMFwezPzGF-Vw2hvT0bZPi61BfFB3PiC17h2p0LNRMBsLoRWo5yGI88K-4FlWnFo1IOzuzMHWjYUz4O47AL7j-gHPpbIub8AenjKaWgp6Yb29RvlBCB7bIt8pkIM6IT0aRdk1B3xIa7b1lDMFngWNc1Nx4kQvBg7KObduNeZcrFnAE4XeZjYmuu1ouZChFY-Xh89-n8LeQK3eK_Zw=s635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Pack包含一条橙色领巾、三张Valencia城市Bio cards、一个徽章和一条腕带。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/zGVHgktKBGZtr5mPoS_l2OwyPdZxVUWN5VdKcR_6ILWbDkfXUbv5xgCy9Awm3GzDOg_fcs-9iDP6qUyXh-YbRUm81Y7IlKBPbYsaaoHZQZGd0r88mR-mZ5Q5RZ5BgayJvaTXETgBaGhc4XSIj_BTkzNbAmdrMxa6yH05s9LD5Gi7rG3jN4jXXBvhVZ30oflvkW1UPH8hFELA1NASuT4VuOqTyzPs1ZJ5gw2Abo52MOqK71zm-2g5ROGNmbcLgFhkK3XtaF7nW3_Ztu5FCrVc4Rm2X4lkBqESJdMMidKjuZ8XD8DPEYhPQv3nCVFmrpdoghTiUrgohFkkziqPinzIQpf01QTTWYaud6F5RU1dpOgwKm87mNR3zn6yqydI7KftrUv-86DsG5odn3jRuPGfPKg3iuOYyp2psu3qWv0gnRTjCOVTbFlX4WUGvEC_ncKwsTD4JIDfAn1q_h1O-wWwFI9rdJHUMm1J6Xui3YosB4GWaZjaHD5UxaiHBXwbi0nlr5SFD_y5RbOlS0Irx77YsLlApVYEsAMJq2fTGphdaI_gSUO0lg1MwIayenyVBPhYlVsv5lNi92iUnjpm93oppOh2InC9wCNlWh9DqzVbgg=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;合影地点是一个本来就日常挤满游客的广场，这一群拿着手机打扮奇怪的特工毫不意外地引起了围观，我在一旁站着，都被围观群众凑上来问这是在搞什么，并不会说西班牙语的我默默退后交给了旁边的友军，听着他们解释Ingrrrress（此处有销魂的弹舌音）。&lt;/p&gt;
-&lt;p&gt;合影后大家组团去不远处的另一个广场看Masclèta烟火表演，这也是Fallas节日庆典活动的一部分，每天下午都有一场。一路上人挤人，很快就和其他特工走散了，超难过的是刚系在脖子上的橙领巾也在路上挤丢了_(:з)∠)_&lt;/p&gt;
-&lt;p&gt;白日烟火没什么太有意思的地方，只能看到天上划过亮光，伴随着阵阵浓烟，只看照片没准会被误认为是恐袭现场。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/QH-3qxyulpv8b7g9vMETki2VkqtKOedekgzZXl65a0VlD4BRd_m6V7Dk5INtyD-_drBlsjbsYCmNTs_Z6Ianv3NXdEI-q95VMesIa2FHvVywiOODbTVAd52A_5ROuaqDTMbGTy4v_KT2T7G2IyYD4z-DQlmmeT16r8mYvt0G4qdmqptwg7DBokTpy-CQQ_EuTkBNCTzV7esSrPSJZxRbG6K8GkU5cUnhQxudj1xZ9AThNeT52WjCG-Cx2rvQWQX0ZFHDKf3SCQPL12LQLGbn5wLpAm6do8Qab3dxVItLJC4LfYEXcPwZcqcpSRUW_Irftd9ttPDvoKgUHlLslahLoCh9wt53ZzScIWzCzX2FrZw1CRBZjPx_Q43hPIyuB6elU-yvyKdvhn-w9UlsgjBDIbLwzarOmrq4Stklv-Aol2WiPZbyl8C6tsKxYbIXBnvEJXpWZD1RhqjE0eE9Hwb5vCcfW-Nf00RMdBY4YjQa8UCxRIqeO3QYop-Tj_kxl3Kluj_6xtitwkl_3c0aQq91lIJlBas9xDabkJrzO9Q10a6yuRbwHiwGS-xRiHhvJU_sk_HupaqN9-Wt3PLtaEWOU7Us03XjYMewUK_Hfag61A=s635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/E__QP0QEv_1RG7s9tjF0a4XkDzemfKpQ_7SlTPxuW6zVhh6HfPI33Xhut-U8KYsv2XFKIz5MptPS1fWAsP4xQ9adtdF47HtmATNOjT2zGHPgqYEBoEE5nTeYVqMqIByrXzp-NcOq1wxVWPCbEAtVLhs_CodAdRzBEX2AsKJXGZbnSuxj0U1gsi9tN4CTAn_WdMoEIeIo44wEZOBSjKVGl0ylu7BpGi4RPFV5a5czQ6mwiSUKrZwlXFA1yyvEu5uUIZd9y9m7Hahzv4pJbO6x1ZjC3eXfQdgE--_0jx5OTCaOk6PzP4DxpSggnMg-hWCLnxPlDoeZ4erqlS7HG-Nr_459NG5wIFQ_Bq4cG9R4wAu5U450zY2YyxEoDgRi9TJRaDgQU44hWYJlRd2H7vijCiOAdA-tbCu_uSVwLkmnN74BZkUXG4fYar5_LVhAXl0YskP_EKM_jmUKzRunDzlCmtVHaM8pKi-PreHZcn749SWfu3vbeSYxz0d1hDuHQYcqAiyCNbA9HgCXlBYnIbagZ4pL8pOeNjwai_Li2bUqB1Oq7h5tWfLok-d61UDJ995NMw-Wo-lLNBgohkmjfw1sjiVbTLPHARzwA8iMXx3cxA=w595-h334-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;烟火表演期间周围几条马路可以说是名副其实的水泄不通，继续默默吐槽，这种人挤人的场合实在太适合恐袭了……表演结束之后，人群才渐渐散开。&lt;/p&gt;
-&lt;p&gt;完成签退后无所事事的我跟着一部分人流走到了中央市场。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/7Ed894JlBYqtokk5D8HGdu4VB0Ilb4R4jxuK0DDKIeNvFhsVf2jGJbO1vGWUiV9ugMmZJS5rZC8E7KYCJhs6vDDmvGzLpcVQgRTeI5kTxpHWEuKCiTfRCRVIf_CeILabxH2hQSBo13ynmiUAspiEeLf8mwhxKYcuKxkHn5h6r-8WUCPAhSXT98Nhu60V94Kw_fXqpK8O1cJd_n03PRdnsBLBfj9cE6yEjBwTeGnJH1WCusClyyp7ONujwHJcOFKWZovC9HiIsrn2pTFY0Y-Fw5NSzTk3BLqyyeomRqNBbqhJZMkZTBY5rIiF08IlSZgyQFEf5Mya2-LzCkf1pM4hFwkvaqK5ZDxJtGWNsrXxbVMZ-hqGsWFwh9C48RslM1Cst6-kGmNSau14WE3c4haXbg3qN6mGuEcpAksHljT5yKaiECVTfw_mlvQN-jWkAvJaO-snpCBKjQbBTxTTrH-R9an8rMZJ5pXgW3ibosVQ-t7Z68gs6tyT0vhJ0x45QQimcWY7C3pV1xnzVsZWlpTUepCwaBu0JiM8SWbcepcJm1UqyVhKZIH1Bl8SxmfGXnAbHxQAA-Ru4S1uOXKWdQrINb9Jz94dqIy_BgIlamaOiA=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;先尝了一下Horchata，之前看群里大佬们说这是当地的特色饮料，味道很像亚洲豆奶……嗯确实。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/nR9h2oFcnGMdaXGq51-DEMAI7pZk5MZICCVadbUC-xKgPWMwUx3RVkCwCHe2MRTPC8ObJZ_e09AvY5LBOKHNGAlLEsyQUTUoYMQ1kE0tj6Cb6b33I1MoLi9NAUomxmKkc_Mdwl_qfCluFl4ARS7G_tNqyEE4WESb6mL2b1nvtID-zj6asYmDKnUC03DZnMBLoF5VPAapMw7RmUZybBhkZbmAzUkPlCSibBcPVRC8-iSVp1tRYo0d66IinwdKQkdnm-DM3M__7gZWghhX5IiH0u5yW9HUyCxLiP5f6fPPjDJ6FxdWFXPTEUBVYwDD5iVevZYrJhPkVFWEGtJfTlhDGys9bGLuiL6TO7FcBF1t7DWxGStwePkDgSvBUS-oIQE26TPzjG9fi5DDlkzMjZPNlFYjlRP1RnsrR38aKKnQxevjvJXE1BjUSX3DQvQNHVVYXqsH7vQ9Xr-WqjFd3ysNfZ0GolLoQQhQFBPQByocYL4QPXW2jdDANVKqz2kqFrRPr2f-5r9I6In0C8w3A99yX7CwO-I7AAbnQrYEJlE0yIUsxh6ldsgiB3MKKopIAKr-Leq_I-GeEPCZ-2yq1mOsp4OX31rl_lL5aooAT3w-kA=s635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/G1Kfr1J0PYALfFUtbxo7JqNGZbtlH2SWpkVLnFAwVb7enioyDqqeY9LtkHa0hKwB4OtgDs8rltguLJC2buHG90rI08s2X25ag9eMo6csu-F4ByHdzf14p_tihAJ0lDvYBjHeaJRHYjbrn4TDyDXf3dESaWgorv0I9nuFxAbwDHp3m5IUfOVO76KtHCzYjJ-W12LVTRrDMwKc6rzGvyJ7Nxp0hrMbonrHiNh0fvl0UQYoxOErCgYXlrV5tGbTH9kazLP2fTilHz1x7xV9ljhlxMSzYzustejb1L2v2VWYdR8HSY1jg0C-eUak4_Ax-EMlS4CJcImxWaqhE13S9fiq2DwDDLEp0poSgWWOFdKqRWAlBKbGdQtfTOHuw5bhSDhwa99N4ZxaASubGG23uV5NifF4nNjB6ME70p_bysYh1GXgshhMUKpYvsCcKqto5Xq8d-rNSu-kghiEFvv7iLb26miN4UMGZkIKrj_KjnX3MZIA93QYu6Q2yZ6hW8q5upnwQ8pZvVFgU_g215PlUxSOUIW3CLdVhUGcOid9o3fh-izbqwcn5LktBys7W8FaYuIBgTc7pi1AIaqMMS3DtZCFZizpNXbP--Exgo-FCyKi2A=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/KaLySDmTXc_Hgqf7ZkiAjMwHC8E8q2XakqsoQr4mxlc7vqFDzW2sLs_Jo20pV_zx75_dQBSsNILNVfVo9QiiZPY-2jTtzIJWDF6QCatbTm-RzQw7UV-XHJMF1zmje7Zn9Rj6Nc5fBrBKf4DC8OIPaNogNIGgxYPaaxlNqSBDw5wxgXvvQH3xrLvJarBIXGgIi0ghEWWeLFrQV8VkQa7jyn3hlQRqJrBsa4Zsb2gPHu7rIQxJFwYgyNcP-9Iga9QeOL_dhnd1SNQ1ux-OWj4UMoBmKFdL-uLyRqYaQJYcnlWwHXLDLvf0Fe40pvQMe4GIyda3ARrzhYg_YI0Wxgo_bGS9fpC8ikivhLKJqAdN0sN68sboenW4L_v2v7L_nf2DiFmW04ZhzrZ9hL3PdTcrZrg_WJEg0WEhfwKPhemLtDUZp91ayGVWltWBMG2zn7jYXcDbvKnCv2rWT212363BwUg1b3kJQVvg2aLnKKBz0UEcRhdjvtSwsM5eXnXXFLWAGW2tWqgjwAzTizcQI5p_-WAgMGopxhISJAJpuKBIEN-qY4d5aUd5qUzRrn1y1JI8GKAd1FL2lhgI1mkhO6m3JbKnqGk_lxymjLWAIGNrng=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;又在市场里买了一块手工pizza当午饭吃，在猎奇心促使下挑了个黑皮的。我拿到手就靠在旁边柜子上吃了，吃完了之后老板还热情地问我觉得味道怎么样（面对这么热情的问题当然要回答说很好吃了）……&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/q3pxlWeTVdQyZ95FlW9IPtNZvVy5TsqF8InmpCDnLyNVNmLl3o_QeGuZIiJsBA37z9blxD5EGiKjhr5DkPv8v45ztLU8hAFhx41IAjkgkif370-s8gW-_LIc7Zoa0cEt207JoSJkpurHjlYqg3MXCAiofLQpaqyskttHtYgK_cCvE0tmfyQkYZO0EY3xT786FdFQyfUZhWwQClp9SisaxkSq-UD8JcTE3zpeyPBC7yJd4Zt4EE5tsTsmh7H5-HK97_4CoDIiXB6Onaploji3NxFphIctMaX2uUcsEslM84W4brS2q4_TNN0noWbFuGPhXE-_OquoOSHAoWGtBYQIu4OjQVIL4fco59nvz48BEWGbNX4cU_EvIziqYL2vUtz9f927nisxbCqaAkxmu1MGAtlv7p4b91NxD811EYyNQ4KExhTCX-LNfLFGU9H-j7llx56CGZN2y8X4LOpeJzliysgm4UxS9tGK4VzqMqH0qpHJiIP0BeXOv5gO3c8uWO8DYiddG4iJLDGm_iWcGOwkkYVGD_4HsFeFe9SDhFycy5uSlNd2HKXx6QmNKEdVTHT1bN-HP4LXHJzKkKmILKUgV_svlbvPy1CY5AW7D7x2cQ=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;吃饱喝足之后又去刷了一排&lt;a class=&#34;link&#34; href=&#34;https://ingressmosaik.com/mosaic/5001&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;天际线任务&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://ingressmosaik.com/image/mosaic/5/5001.jpg&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;绕了一阵子之后，又回到了合影时的广场，这时广场上的喷水池谜之围了一圈人，凑近一看才发现，原来里面堆满了泡沫。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/nbS9mEv-vaQpmi3OpOZ7KnzFfdEBm-RXI6nlUn8pRIcMtvctF-HBGqQ-_-KzcD8zAapzWgegwxwhXRKFtLkJPt7fe0ht_dLh4l0pfZ648Ma-W9dY4x_A28u1wBFyKAMmC08w-wWhKuSOIBOFQt1bVUqluRMsFZ2Rct3EKl4RnvWDhEuuuBjV2lQSomH7HKFizXdf1oKxpn-Xh62Hb71_ncsGbIe6d9TBNNkRIf0nyAP8tcqHOvRxNXte50a4bwxuu3XhwcOhIZqC36sspBvAeKkFZPXli2DNQTh_BkI1--yx1vrYJQky4JB-yar5Wn7s_8rFlOe0jrrjSpdrdigyp667DDkFeJXe1MGdxNFLhNpM31U4pb6qXyVAZqSUWDgJcJAitiN7pxB_VKCtoK2KMRPABAsGtNGe_PQK6f3PvwYW33gkSSSzFZPPrU4P7pLcaFAhTzCcf-h0fULWQiMNIBf960aEPtIdTCC3PZT3_RuqTnTJbGQ4UFP3X6c29rHfa30T0yDGcQuxRRxVAINK_vCcKECOeTNRI-sWmx7Ib6mvA73YkpwlsxzEWvvmz6GjSFFIaK7yOmQZuCd9y6cpGxbpVJRpRPfW3aIgah_BNA=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/cbZYO8uVLDT0PJdmHdf4OCbeSn7DgO-LdL3BttIScZS5B9E_HviX0_CjDZm8peke6qGeDa0VyA24dQ3rvmCJ0HXntUlSYf0H4dtfHwl4vlnrlfi1ZYIRBPrs9HOYDzPwbVMNJqJh2Nn35x2m_q3dhgjXnClALFz2gpTNZ0xkCRJn-mpr4Rz1D7e_DsR_XyqD8fHF31veAvoOLEWKGwDWHK30Bfeg-xYQIOCy-AwCGNXoW76ETpsGODGqSNSp0Yhl5mE7jqO8yVbHXz6449TvuBUHhRRGwu0l_d0fmjkLzhrilL-IrCjPLDxa_8AuUiydzyAYNBx_TGSl9f5ytsoQVq5i96gBVNxnWoftFq88JjXTBw_CAZvGRMYkbtXSHHsZRn5JHSWwjQwSg802J6nK0-TsaoySHa5Lazi8vq4cNU8w4WnM9N88d8I4dzVaFpfEjU5DMGaOrzW6vftIZ0-cdTEchv5ls3hDG_hXL_SaGd37k_1aYrHiTX4OITNeIZTTLuY2U4oCkRaRDIqHuJbMMY4NHbnVKswwLbo2iTVqdg6J_Oawsbs69GVyf4B_HzgHoU50tZr4mHhy6PEFGrZwv8rTSlZsm7KBnAXGJwd3KA=s635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;质地像沐浴露一样的泡沫，也不知是做出来这种堆满整个水池的效果，看起来非常梦幻了。&lt;/p&gt;
-&lt;p&gt;从早上六点逛到下午四点半的我已然筋疲力尽，决定最后去看一眼MD背景图的那个景点就回去休息。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/fuX4fO6JrYCzQsNKSVwkrVqhF0X3IwDVgPqSEPMlQpNlRdXzMiViNkkZbjg1x_UfdUNt3ocSjzSKzo5nbFQT7Awk5ag4gqqo1bDCyVB0iYSLFY2C6NqoTEODaiB7_t5s03HbYkChsLs-JgnwEccBVt3WNaZ5J_-3fU0_GNcA7IzFhKJAE220ozMdBZ_jHvWkykEJx_pSSkixGTKh_99iHguP5-0QwVCZSEXmujVbYLfA16k4CNfVBp7cHdmIEv40pw-WxpqJEaH2g77T9qYpb0zQidtsj7DK7A5HqKS40gY3fAdO1OzSz9MaJvleNWeaeF550wDxUnxkZW9rEwjMfxDJuvlKNIR1VckfLJZNbiHAU7_OhBxiaLNw3kocetgVKOOTXaRnhkJMH_04XGuHijwUGxzGJF_aTE_bnvM8SoCjMdYjfO7R8YnL5FWHz3jZo3-vcB1d67wiXss1gRT4RYt6kb_p133ARmWsreX5QboMlzKlrxjxb6HjRTnzMv_7O14oZCihJ5Eqq85fxWuCx2itCntJPzy8aJT5SeC282m1JOJyB5S1Eds5qb6QZ202oM1ih7yOQmqgc7J_K-6AdIjnZbJGHLA_euTyWvKzEg=w848-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/pd8hOjgTihKZYYOH-JRaqGPTYaR5GPdJPRqysCyNUe9HZczk_jGOm4x-IALCIFEn3AUBcgZenHvFHHR0P6WsP9acDA2_h6KnRBL50wkaiBPjOj6CwD8vDzpdDDEkOKYN7BWOaZqCLj0QisTZsXpIm3CiIRh6Fd6fYDz0fhuSX86XuEqHfJeIxah6vM7VIcDV3YQYhgnJYvbUkeCrAtmfO_pgJYt66XERnShnGWKPJkHzu4CTTNUYsuEmJBdvHdjPkYZdUFputf6mizdkcow-0ib8yvT76f3UzfiD5dehtIRkwe_zi-35vkOeHWQC6M-fDhOKByeRXdltJrO1UOFP6m3TIa7_FWVbBIgEtQ4YVgwZ3neh3KQ-4R1M4ryTPUrjgGex2CEtXEegAWXRcN2TIKCVBAptAAQdrlALNW3PzKk_2JoH5t-3mY1I56Qp7gf_-M1zQFGwAQOoytCRV7WixJg6kOZA0mCTtpOgLFyl_Vw7dDLsfJXqjOnOalGYN3YaWs-9VPLPL3Jzj8Pfj-bRBo-3hf-tPFUgSbRYV1Oml51srW9Nhni9zsM2IVTmSSUrzhxt8sP_vmMwQuDknye177ka6K1D7vx_pvC4HcINMw=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Torres de Serranos 差不多是Valencia最著名的景点了，这座始建于14世纪的古城门曾经有重要的军事地位。登上城门后中二病发作的我顿时脑补了一名中世纪守城士兵的日常，面对侵略者的强势火力几乎要支撑不下去，然而回头看了一眼身后城内手无寸铁的百姓，用尽最后一丝力气继续拿起弓箭浴血奋战……&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/EyluO03Bb4eykKEISf-9bb0b-_O27pzfsPLwpEqvbVgCE45MKcUHKmcOovKyJnSX-3tkTJs6rWceYdpV-StRWgCbmphMY7si8181-Pn82Y-qVn2V64y_XhYuUFIMQ1FJzABGktuIMCiFIJ2ePGxa2Sf9mli9sP45cW6xBgLg__0yNKRoMZQxe7cHCF1PsbaCbENHA_M4TnZThsAEtMFNGX5qMFpBEcOCzddO-S2aCCYb8q9aeJHKwvdJt8BWwNNjAYM05IDgVirTOq5LGn4TdAHlXvBpa5yJnhVDq7WbOKe_TXmUrbQAlW7pNew1a27eT5FTiazSk1Kg0qUCkgMtLvz5Gnlrbqtx4nyneqjobn7TGVhmd7gxjBJeOHvTHwn51Scu8p02PIq5uxzNYD3oNAAD8xpEzJHLvBTWFMaKnYoRESBHG0NNx3xkqE8bFLSesI-da7YECjhcCmyiDxLS8i_FcL7ko28OWqyuVjraDZWpeMDrofMft7JakaCIx1FlrJ6JxG2BFcmNKaCrjn27cfsxFkfzRlZTDQx1UuYY38oIu17r2nJctYGiSdL8MgGyqoVWLTPWoLHmAdQ0RV8pTAWWkYdkZaqkoujcqeowKA=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-城外侵略者进攻的方向
-&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/_z_K1Ru8YURELo-CKHW_oQU5RKAz77lX2LlLntRs_uxUUnUQhv9InOMkgVuJoNPWSuYPFLO--IL_pYY4--wlZGOxMc4Ivffs2dCyFhMXWFLzEQl7mSriAw95VbwuAQaGHmjdGT9yUvizZI2YTyq5tN9ZosdwWGPq0LSMJR_5cZW_fcGwLXw5Tl3P3U3nTpx3zCFA-Mb4rQUnWbqjfEL4IZGAtoBbFICiD5fkoHvdOLOVqxLru57FsBEWn2rL0-f6sRODAfEV2ex4ZfnWCfr23Csarw361bzjrwWYfcqdC6q6dMD6C4HuTi9JN49r6YW-5kJjZ0gpNK7xTyFvO1nsMcfMPfuObYwgkDwgsaB2Bcs7RL3cbckvdKx-Tx2WtE6O0JTODreYWqkCVSbsHWUpzo_5lLYj9SGfuXcte4u9pwCUFuamGtDOyGi4tBcSg6txUwKQSItuZKh1XyZ5TLmq7EoA2RdXWL2SKHTi7Wmw5p9KHr_YSc29XzN3g87NTT-XWfjWuImnA2p9k_b8qNzUEreLt5SMKpxoSZB7qJh-Qd3W_g9swy0tbuInfkpAl7sg-yOYUuiU6AP7yA03nTGgLypz3nvTV_asp6CrSitJ7A=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-躲在墙头放箭
-&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/QR8mNdeZp9WQViAhtc-wdKa8KMMIlGwhw707IMI-mn3pZ17BC5sIu9s0MgL5O5dR0u14XandXvs3aaHfHToxgMQZyhu5Pq2FZlpWjkOi3BIjzWdSAwqMJ2YrJ-mKL4mTOnn004_Z---Z0MJTQ12QHCmBsPLbVls_pSKs6C455RrlJtJEeKS8tzHDqjyLMj1hluKmX2ghhmtkXd3AuSsKKv72e3hFvp3qFiYyqcy-ZhKt79lPo9uHpn-rSY7kimR9NyI3zOb-mrjNgFoTMDtSiMu-ukJKPi3VfbAnzlMsUJ7zyTvIC1kgMBGW2cjPcZFuQGuDxmcLvVCnKozt4JlI_NvsD1SG8uDxiLBu8-zaLr3L2vXhDA-eNJqgPilqI-scM7TR80nvV2_QTbByR36LR36PzQw_jn5eRQLBVg-xNZjV1wFQrH7QtkfLNKeCW5-VERa73RsF-pn4rkv8jjuJCQiHAodCI5XdAUJQYlCB25YaWeWFk9l3bOMMXxwPtj-_oKY_Ip1xpP-P5HVGkBOIViBwT34tqQrEU6qxUUw_85wqKgjp7tddA4sIDXV7ucKt0JTJ4W7Yb2hp1tpAMlCLeWmVLC21kcCfkiSwqMWWVg=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/duSs4rRSwsM5ak4i4dHGmhZsTMFEyIYMOxaRworAIZeNqUk6EMFN7hzoqeEt-gk4mJY2G8K18aZDxPYZM0EuVP3r_qA7JxnNfV1nFOyAMN1p8c_7RJNRrsVd8cnIG0J4N3Qqa9PsMBzzNec1SyYzevHe87ClENgXKhKw1-8TAtYGOoQK3uKePmG4DlXzPjrYxBhArlLpPdZDJFrBRjTMi9Kmj95QKbm5fpxCyJiSRl7HrV4A1U3op9lEQg_Ng_ESwoVUAjzQIn_0pCrd3sanRleAmuLjGLr3xQyaTyYwaLr6UsDolQoKoJduKFEZA1AMSOsrzB7yUISN-RDNkSeN93ctnhalVFutjqn5rBmFJ-44arj2pJfsQIZj-YltELQotvKPkW6yf7TBSp6YriND8VLQnBcOaTIcxF4d2fic2RLAHTh-jtYbxXUQZRy0BNv9Y5EA0k-0eWN91K2gqwh6CTuuX5Cg-p3jF25IWbRTp5TCmgpTyTQM9Ae2E6tbfOL4-by5ldf0o7JuY2KcdjnI-sYkC0fKDVb597rABuB0d8jA3AZw1VNVo0ia4PhpPpUPPz9W5bgs59lpFwMpNQNWXYOXiF24q-LGkAh9TbZUVg=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-宁静的老城
-&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/s-3F09j6ECSTT-LUbXitONu5VbrJ3s0A6Jl5qj0q5PV0momvHKEwtUeGDEHak5nzXvmjMJZdduiOc0f8xFCLAuMa6gsbdmI6XBZRZbDEw_uSEjsZRzMy_Dsm9wDmo0Odw6Ds0eNul-Zv8bpqP1qtvKAselYlSbkPzLWWklLqeIE7xMtdYcDcb9GyY5NFLUVIeBmbhKbOe2-m1HZ1lKwkgIsfxzAVxWATbBzYoPw2U2xdM9o5xBw5ChPT6sPcNBofhBXfK6mM2CCtjV1fTgW05sebK_6gYuilcWfBpqpuelpYBKZvsEYhUKXCJWYyL_fUKF6jD9xtSCddS_iQC7UqASzWym-RbIzZlTQhbzmV4aLIl0emdqXp8UZwKy5s8xuChfsy8tgwHg7R7bbTyIukch_ti2GffXgUuB9Mxy2VyE6QtWdDSIVzqGIVxVTSKqbPWL_24d1lmnEroMfZ6P0zS1_0f2fQy0vRMt4NSbQ37wviISjUCjqmGbMp2qSPZGkU0KnBztw2_nqJEp4yc5wu7V-vZQVqKZpH6A-jM5VdOaiT3gt5u2Wf4HSvqrthz6AAJkD_jJ3Cs77n4nIag95ivbAu0_a9eiwxjmctPdyqYw=w358-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-城门上飘扬的我军旗帜（上面有抵抗蓝的颜色~）
-&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/2FMVgJAh4m6fIVThLIMGJeQo3jaTZG1tZy3ooc1E_fXUVV0sTpOe5Rl5rl1oj4XpmaW4ajmvUX1aJMIN-fXCNPwNbDtkAQiK53NhKmu3N5NBq_7z4F2rHlzK-sgYb0ERFEVBl1dPKMYYMEH2YTuLJWXzQxXIAEi75brlHS0nYNseCSufE6e8riHm3rT5Wi7avZFjIPAe_SF8vwLubfhBZdkqzUD0CarxiItGHEystRujLKbyo-waldFWkysF78fkNSSAy2usuZqcUyr4Ctt3lxh4uPM97-IfsKc6ljAQyqjs861dll4yeVdPZBiI9jA7ByopE4JbQT_LeIQ02l258axzKBMPizSWggiFWz8WULD_5y9HyEQbu6cxGZ-pVs5WgOD2EeN9-AwybcmW2SpoiV6s2EiLaFszeJzsxwr60NaLjcoe82kaOLNFhXlbOsLT0SrOdBWRmRmnLYENTC7a_mG0utqKCHg6KFfBqc-tH6AtGaYMCTbr5aFUGT4tmg8_aguqCbx_aoEJWCjnp0mu2Ogh6_AbaSlXPog-xz_BmB-_GwA4HrT2kT5-p9pggLw1eqC9x5HBLbnJ070tfbEdxFBX1n2jF5_m0V4-VA1bFA=w595-h334-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;br&gt;
-丑不拉叽的城门背面&lt;/p&gt;
-&lt;p&gt;回青旅休息了一下之后，天已经黑了，便出门买晚饭。天黑之后气温骤降，我也不愿意往远走，只好就近在旁边广场上的油条摊子上买了半打油条。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/k9J-HT0T2GMOPgpt54pym7tIM20m7exbeImdHX8Pg6bkuFePXIgK4ndJtwGual0Ew1BIVc_wP15Zjct9-_LGHAzQF3udS4vjGsr_SC3OB38DtJAml81L3E9UQ3vH29HRuEZbgVlSRZRcL5MaKKZ-LM1ws7UaRaGAep8idYFVuL9YSOC0pROTvZpcucy04hd4Zlp1Q_iYi1yO2SGLNFN4lFxsyKTTuVfi32ZCkv1LfT0zuMSWSYcfVSYVNlLkOc5dhUdi0vjdziVSPBCYq9xUZ11nACirukMa0S6Z4HFDMknM4xWNbx3T709uiTd-b5n0AnhRT6N22QskHHYesGtHBg_INCHKjl69PQJNLSVZR-BxACIqDqsR0K-4sD5dZD24fLH9ZSTtUX5P_F07RGCK7W3ZxrRYebEpXNCR_8v09uSfZ8s7JCazwwO6ur-lQtcOZVuwyVXT40dalmJlY8sSlp9iO9VBp4Z-gNqJDQKAQIATY7Pvpan2ZQ3UL8XLJ0if0_-Yt6nrLUrDIfjiR2F-JaTKy5CmFBJ1kssXA13f6vJn7kDWDlIa-eFzdBsJoeMOgGcFG56uodgmNzABiYBUxk7yKDNUHnNH_qVPvTZdHA=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/pylNENKiqjIqowM0wXmFd5gmtdLMk15nS5oIe3AV3OCBfrI9b5VEBcoE62oDcRKPjFpf8SHlLM01OqFXV4CbnaBCtJIjWD_xhIxi2IIZcpI7YUvVxHkF_LssWx4Rfzuouq9_RVM54NFBTiMMQbtr78oFunK-FZHp9_G9Nxg5HD0tnHq8-1dDjh8Lije1bVA7Gz03HVGCp7hafNIwNsPqPsMg4bjFs3-0_3sK2U-7bB9Pv4ScM9XshhzRtXgSWj7b-fgOMMzjQ4XCBKVVCTrEKEdp4olQ1bc6FDg0QqaHn_XcEXf225NdFYTGJFdmC0CPcmHzVd6DNrETv1nUWLy8jDDS2WUTmF7je7lmIfmz7Xk69nVZbuyhw5KhJK3ovkD_WOadyoeu-IeUtClxYqRO4r1ePaq6ljjWDTKz06SL6HYPAW1YnML4DxvxUCn-zZdsOpwC5A9Eb-FshiScMSCMI5TH8Th-5LUzZELxH819x4JWuDSIid46KaYCXK6OSww0zHwhtq3IeCyOns6nVl6XUJbrFTajx66yCEl5l8X6TNgniemGIt_XCeYgqUKcP1n4fY73GmmbSEr-qf7-T3jximVHaG3BsgXbH4YFe_WWLA=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/OXIExsTwIB3BIKKZD60ARNLouoG5VnDNSRO8pKmEY0i1WTImKqVkJ6lnXgE31rKen1fghYtIvlxfbo97cZk9a8pkKROTCr2tgHLQL-gknMJiwB1bP9f0c-S7FkL1y8NEkvGpVRTNAuw-f9U9SvhJ3aqHyg306eZsWlar4r2HSu0pSMVGSizJ-jUSDfEQQjHCYjfYKUXh-JpmD1jWPnq8FijeK2eHas0Xz2VpmaHsygtVb_D-y66CXL0P7pOOV-jCs0sNZit8apVa3wCawUfgPS94nR_GTN5syJCzKnK5QqAAWFXswnx2uVN37hWNuwkwjltwckhaLC85-rsMTurPycbjrnHckIM2yjWjLN2TuBWKe_8bd3b9Xy1BHfywFv56lPzhfS0ZCRwRKnkIUyfnknVtkEwwa2gEQUw3KYNDZOVXJ3Ma8K32MCoEAT5qmAVcqdKiwK9NTS81nEHxiG9587JJinWa3LZhjvOKxO2ABcagH8CcjSURXgF5rlXuaIWnI9tSE6bt-Eb1RcgWdp8PjyMCNJ4ycf48HIl66PlDkB-v1kAj75LSN0LROk1CLcpJaNkDyUU1d2FCd0bnepwhqVStU5jcqaFMDNfL_idBeA=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;这种churro……正经一点的中文译名叫吉事果，比国内的油条要硬，吃的时候要蘸白糖或巧克力酱。也就很一般吧，不过来一次西班牙还是要尝一下当地特色的。&lt;/p&gt;
-&lt;p&gt;其实Valencia最著名的特色美食是西班牙海鲜烩饭Paella，然而饭店里卖的每一份至少是两人的量……独自旅游也就是在吃东西时最不方便了，没人一起吃，就只好放弃。（于是回到宿舍之后我就去家乐福买了一大盘微波炉加热版Paella，自己吃了两顿吃完。&lt;/p&gt;
-&lt;h2 id=&#34;3月12日&#34;&gt;3月12日
-&lt;/h2&gt;&lt;p&gt;为了不耽误周一的课，周日一早就要起来赶飞机告别Valencia了。走在来时的道路上，贪婪地欣赏着一路的景色，不舍地离开这座美丽的南方小城。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/j7ShlszjViVO-vXmvn9bXhZkS4KUhg350uKJ29sYhT6VrvUfN0dZtd0z_zilwq9G8zY61P0UFZcWqqA7lFMkWOLFg-zClk_yG_c7pxbx_00za27OVDsSzx9uK_1wXC82q-rt6OGcx_emqHYSc8f6z08014HqHDljPJFU4oTtVN34fxVd-jHFixtzfQ0oD8nfyH9TNWu-kNFZRZ6wTRquNhXQNkwuyUvRXQPznEQXi7T4GwnAQ4tBm8Mhphyg5OdJZRUFdPsDvvjarp7tV6xAvSXqwtg9BT1RMMSnhHGxCPoqjYYRmLV-sl0fhYmPZ9P7oGTkgjcSMMFxMrfF23eQS133KesQ07yBaFsJrr8c9laYdLZAPLHrjwRSyDQeiupc5-cNZ1GUpz9uWTd62aUH9Rx7gEsESvSiGc1NlNzIQIx7OHgYQEYkFRhIBDII07tvreljNxeMxogNQuvGn4SNPlenu2Siper4xe0Bd39Htjm_3y6JvMl2kTEozdt-ocVb_xlMo3DteAVBc_A-VhJPuiKlVc-bHXlujUR_FcfxzfpZMcjFKM3Az3wuOcR9UoJnrhCnLLyQP8gwvdC3oU84R2FSx0sgIHCgGwFvj79CRQ=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://lh3.googleusercontent.com/t7hiJSbvh1oCXEq97LPJTeYshLZJ0ZNVNht6JTurlt18rq2g32h_869bALjP7jjx4FrKImKPHeDSCRJ1JfjbmKn7eLJ3YTFPIw47Xkn5C-J6IHOK9SYtaP4UxzoXBAmklHWZiA7omSSaNzsGwfpZixHUD7UPXELn5jPcyU7YRsQsVRenDemVeItjuaPyheOQvPQDcuuwE61XyE2GIfoPZ1ajEJAYLZoYosjMHKZ03L8onxDe97Fj_LPoiSfPBjbNU4ZXdSm4tG9v0SqNVhjYcb7E5dscKxGpv_dpYbfKIfDPf30p6kWl4GASqzPy_1AO5fKWxGdBXQyN5yfrXRvKI1YJYBMcvUvfpqZDhebS8HX0rqWWU_5g9NMuTAY8x8EAnwVeDYMEH0dozS85I8anYztfhiduKdpsRZ7xJ_zPgus0pkbq9DkkfiY0d7Zjbq3j3APZuMyY-Jj3-xWh1cNjE0lP__L8R4hWApGNnf-20ZrF8Q_TTvRT4ObYO2h0zunluZ-BU7J56O1h5goSA8tIQd6eC8IcqM0wMNyOufEuMyKuCDGI01bvDiLgEDWLqfrB4w1O4ukytU7SucyrS61aB9K--pJ3w6D-Z0Ingzajxg=w1130-h635-no&#34;
-        
-        
-        
-        loading=&#34;lazy&#34;
-        
-        
-    &gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;到了机场，毫不意外地看到依然扔着一地 portal keys。在Comm里说了句 Goodbye Valencia，上了飞机，回到法国继续去被冻得瑟瑟发抖。&lt;/p&gt;
-&lt;p&gt;我似乎天生就对南方有着好感，即使身在南方也一直向往着更南边，在蒙彼利埃时爱着瓦伦西亚，在苏州时爱着福州。几天前在福州MD，看着闽江边各种南方特色的树木，突然就又想起了瓦伦西亚，想起了这第一次MD之行的经历。翻出移动硬盘里的照片一张张看，总算大概回忆起了八个月前的这次旅行。&lt;/p&gt;
-&lt;p&gt;最后，希望以后有更多机会能参加这样的官方活动，并奶一口……明年回法国之后能有境内Anomally吧。&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>博客心得</title>
-        <link>https://blog.nautile.one/post/blog-thinkings/</link>
+        <link>https://blog.nautile.one/post/blog-reflections/</link>
         <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/post/blog-thinkings/</guid>
+        <guid>https://blog.nautile.one/post/blog-reflections/</guid>
         <description>&lt;h2 id=&#34;标签和分类的用法&#34;&gt;标签和分类的用法
 &lt;/h2&gt;&lt;p&gt;因为已经习惯了用其他博客服务提供的分类、标签结构，对于Hugo的此类功能，一开始以为只是在每篇文章的开头部分，所有列在categories和tags里的内容，按照所见即所得的形式生成相应的标签和分类，还思考了很久命名形式、要不要包含多语言；直到终于注意到模板里有一个example-category才开始思考具体的用法。所以其实可以用更简单的形式给分类命名，之后在对应categories/tags文件夹里的_index.md里再去定义title作为显示的名称。&lt;/p&gt;
 &lt;p&gt;标签也是同理，虽然模板里原本没有自带tags文件夹，但是参照categories的形式自己创建tags文件夹之后，也可以以同样的方法对每个标签创建单独的页面、配置显示名称。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>博客装修记</title>
-        <link>https://blog.nautile.one/post/blog-decorations/</link>
-        <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.nautile.one/post/blog-decorations/</guid>
-        <description>&lt;h2 id=&#34;字数统计&#34;&gt;字数统计
-&lt;/h2&gt;&lt;h3 id=&#34;文章字数统计&#34;&gt;文章字数统计
-&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://oxidane-uni.github.io/p/%E4%BD%BF%E7%94%A8-hugo-%E5%AF%B9%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%87%8D%E5%BB%BA%E4%B8%8E-stack-%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96%E8%AE%B0%E5%BD%95/#%E6%B7%BB%E5%8A%A0%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;使用 Hugo 对博客的重建与 Stack 主题优化记录&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;总字数统计&#34;&gt;总字数统计
-&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://thirdshire.com/hugo-stack-renovation/#%E6%80%BB%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%8F%91%E8%A1%A8%E4%BA%86x%E7%AF%87%E6%96%87%E7%AB%A0%E5%85%B1%E8%AE%A1x%E5%AD%97&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo Stack主题装修笔记&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;系列文章&#34;&gt;系列文章
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.loikein.one/posts/2021-05-28-hugo-series/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;在 Hugo 里显示系列文章&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;图床&#34;&gt;图床
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;从零开始搭建你的免费图床系统（Cloudflare R2 + WebP Cloud）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.iport.yfi.moe/zh/guide/for-cloudflare-r2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;S3 Image Port&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -1904,62 +1376,746 @@ CORREOS Y TELEGRAPHOS……大概是邮局吧，为什么别人家的邮局都�
 &lt;/div&gt;</description>
         </item>
         <item>
-        <title>Image gallery</title>
-        <link>https://blog.nautile.one/post/image-gallery/</link>
-        <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+        <title>Mission Day Valencia (2017-03)</title>
+        <link>https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/</link>
+        <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/post/image-gallery/</guid>
-        <description>&lt;img src="https://blog.nautile.one/post/image-gallery/2.jpg" alt="Featured image of post Image gallery" /&gt;&lt;p&gt;Hugo theme Stack supports the creation of interactive image galleries using Markdown. It&amp;rsquo;s powered by &lt;a class=&#34;link&#34; href=&#34;https://photoswipe.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PhotoSwipe&lt;/a&gt; and its syntax was inspired by &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Typlog&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To use this feature, the image must be in the same directory as the Markdown file, as it uses Hugo&amp;rsquo;s page bundle feature to read the dimensions of the image. &lt;strong&gt;External images are not supported.&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;syntax&#34;&gt;Syntax
-&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Image 1&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;1.jpg&lt;/span&gt;) ![&lt;span class=&#34;nt&#34;&gt;Image 2&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;2.jpg&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+        <guid>https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/</guid>
+        <description>&lt;img src="https://img.nautile.one/mdv.png" alt="Featured image of post Mission Day Valencia (2017-03)" /&gt;&lt;div align=&#34;center&#34;&gt;
+——驻法国蒙彼利埃（Montpellier, France）中文特工 &lt;span style=&#34;color: blue;&#34;&gt;@Allonautilus&lt;/span&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;result&#34;&gt;Result
-&lt;/h2&gt;&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://blog.nautile.one/post/image-gallery/1.jpg&#34;
-        width=&#34;2000&#34;
-        height=&#34;1400&#34;
-        srcset=&#34;https://blog.nautile.one/post/image-gallery/1_hudd2e8259c20ed0dcaa856c253552e90f_14625_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/image-gallery/1_hudd2e8259c20ed0dcaa856c253552e90f_14625_1024x0_resize_q75_box.jpg 1024w&#34;
-        loading=&#34;lazy&#34;
-        alt=&#34;Image 1&#34;
+&lt;p&gt;一切开始于2017年2月。注册账号六个月、正式入坑五个月的我，当时正在例行刷 ingress.com/events 并对着千里之外的活动举办地望洋兴叹，突然就发现新公布的一批 Mission Day 城市其中一个位于西班牙。&lt;/p&gt;
+&lt;p&gt;西班牙？总算有一个近一点的了。Google Maps 了一下，Valencia到Montpellier只有六百多公里远！&lt;/p&gt;
+&lt;p&gt;然后就开始纠结了一下：那个学期，我每个周六上午都有课，而且MD四天之后我就要去考报名费170€的 DELF B2。然而再一想，这是我为数不多的有机会参加的官方活动了，而且，如果错过了这一次，还不知道下次再遇上附近有活动要等多久。于是当后来确定了3月11日那一个周六不上课，并在内心向自己保证要在接下来的日子里更加努力地复习法语，便RSVP并定下了去Valencia的机票和青旅。&lt;/p&gt;
+&lt;p&gt;这次 Mission Day 是在当地传统的Fallas节庆期间举办的，虽然节日还没有正式开始，但是准备工作已经在进行，而且也有前期的烟火表演。&lt;/p&gt;
+&lt;p&gt;主办方的公告里还特别提醒说，这次活动跟地方警察局报备过，所以如果警察因为你行动鬼鬼祟祟而上来盘问，只要跟他们解释说自己是Ingress玩家就好了；如果警察还不知道，就告诉他们这是个跟 Pokémon Go 同类的游戏，可以把玩法演示给他们看。（所以小畜生是有多火……）&lt;/p&gt;
+&lt;h2 id=&#34;3月10日&#34;&gt;3月10日
+&lt;/h2&gt;&lt;p&gt;周五这一天本来有两节课，但是为了赶飞机就只能都逃掉了。&lt;/p&gt;
+&lt;p&gt;一大早便从宿舍出发，通过 TGV Max 订了从 Montpellier Gare Saint Roch 到巴黎CDG机场的免费TGV票，TGV上的一个上午就在愉快而激动地玩手机刷微博中度过了，电量还剩不到30%的时候去拿充电宝，才突然意识到了我带了两个充电宝却没带数据线这一悲惨的事实……&lt;/p&gt;
+&lt;p&gt;吓得我把手机打开了超级省电模式不敢再拿出来，还好到了CDG机场之后在Relay便利店买到了6€一根的数据线，质量非常不怎么样（之后没用到两个月就坏掉了），不过至少靠着新买的数据线开始充电之后终于又可以愉快地玩手机。&lt;/p&gt;
+&lt;p&gt;在候机时遇到了一名看上去非常商务精英的中国男子，在Valencia工作，西班牙语说得很流利，此次从北京去Valencia通过巴黎转机（还是头等舱）。就随便聊了一段时间，听他吐槽了巴黎的安全状况（“我这样拖着行李箱都不敢出机场去大街上走的，巴黎这种地方怕是没走两步就要被抢走了”），然后就说到了我去Valencia是为什么的话题。&lt;/p&gt;
+&lt;p&gt;我：“我是趁着周末去旅游的。”&lt;/p&gt;
+&lt;p&gt;他：“旅游的话应该下周再去嘛，下周Fallas节正式举办的时候才是旅游旺季，游客都是那个时候才去的。”&lt;/p&gt;
+&lt;p&gt;我：“其实……是因为一个游戏活动在这周末举行_(:з)∠)_”&lt;/p&gt;
+&lt;p&gt;可以感受到大叔内心os：现在的年轻人，周末打飞的出国就为了去玩游戏见网友？&lt;/p&gt;
+&lt;p&gt;我解释说这是个官方活动，还是跟当地旅游局合作的，才算是稍微打消了一些他的疑虑。&lt;/p&gt;
+&lt;p&gt;这周法国的机场在罢工，不过我的航班还没有受太多影响，仅仅晚点了一个小时，顺利地在下午到达了Valencia。&lt;/p&gt;
+&lt;p&gt;下飞机之后，我一打开Ingress，就发现机场周围被扔了满地的 Portal Keys，我还有些惊讶地在群里吐槽了一句。后来才发现这几天的Valencia到处都有agents乱扔垃圾。&lt;/p&gt;
+&lt;p&gt;青旅就在Valencia的历史街区，距离 Mission Day 任务的范围也不远，算是非常方便的位置。&lt;/p&gt;
+&lt;p&gt;这次住青旅也是给我带来了一次难得的经历，刚进房间看到里面有一个男生时整个人都懵掉了，才想起这次预订的是混合房间。不过毕竟是11€一晚的青旅，反正之前就听说欧洲的青旅很多是混合房间，也是总该体验一下的经历😂&lt;/p&gt;
+&lt;p&gt;然后便开始跟室友们聊天，有趣的是，六人间里两个男生都是马赛人，于是和他们用磕磕绊绊的夹杂着英语的法语交流，当时已经完全在怀疑自己：像我这样说话都说不利索还考个鬼的B2哦！&lt;/p&gt;
+&lt;p&gt;安顿好之后，傍晚出门去做Fallas庆典期间的限量版拼图任务。这套拼图还是当地玩家特地为了这次 Mission Day 而申请的。我查了一下这是个什么节日，不过也没太看明白，大概就是当地人放烟花并载歌载舞送瘟神之类的吧【x&lt;/p&gt;
+&lt;p&gt;当时群里还有人说“你们小心哦，这个任务有一段在红灯区的范围，建议不要晚上去做”，吓得我问傍晚七八点时那里是否安全，当地大佬让我放心（大概对于他们来说这个时间还不算太晚吧），于是我就放心地去做了。&lt;/p&gt;
+&lt;p&gt;任务路线有一些地方在历史街区，也有另一段在比较僻静的居民区小巷子里，不过我倒一直没有发现什么比较明显的红灯区的迹象。路上还遇到了好几波其他的agents，鬼鬼祟祟地像是在搞大新闻。后来做到一半的时候，遇到一个绿军也在做同一个拼图，作为熟悉路线的本地人，他热情地建议我跟他一起刷，我也愉快地接受了邀请，途中一边抢 625 AP 一边用彼此都说得不怎么好的英语聊天。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/ingress/fallas.png&#34;
         
-            class=&#34;gallery-image&#34; 
-            data-flex-grow=&#34;142&#34;
-            data-flex-basis=&#34;342px&#34;
+        
+        
+        loading=&#34;lazy&#34;
+        alt=&#34;Fallas&#34;
         
     &gt;
-        &lt;figcaption class=&#34;custom-caption&#34;&gt;Image 1&lt;/figcaption&gt;
-&lt;/figure&gt;
- &lt;figure class=&#34;custom-figure&#34;&gt;
-    &lt;img src=&#34;https://blog.nautile.one/post/image-gallery/2.jpg&#34;
-        width=&#34;1500&#34;
-        height=&#34;2250&#34;
-        srcset=&#34;https://blog.nautile.one/post/image-gallery/2_hubce42636ecacc1a380b462f3110efcec_37455_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/image-gallery/2_hubce42636ecacc1a380b462f3110efcec_37455_1024x0_resize_q75_box.jpg 1024w&#34;
-        loading=&#34;lazy&#34;
-        alt=&#34;Image 2&#34;
-        
-            class=&#34;gallery-image&#34; 
-            data-flex-grow=&#34;66&#34;
-            data-flex-basis=&#34;160px&#34;
-        
-    &gt;
-        &lt;figcaption class=&#34;custom-caption&#34;&gt;Image 2&lt;/figcaption&gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;Fallas&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Photo by &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@mymind&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;mymind&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@lukechesser&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Luke Chesser&lt;/a&gt; on &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p align=&#34;center&#34;&gt;切过之后的图看起来有点乱，完整的图实际上是这个样子↓&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;http://d24wuq6o951i2g.cloudfront.net/img/events/id/272/2721822/assets/1c1.specialmural.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        
+        
+    &gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;刷完这套四排任务之后，我准备再刷另一套单排任务，不过绿军小伙之前已经做完，就先自己回去了，我一边跟他告别一边在scanner上点开了第一个任务，却弹出页面“请输入通关密码，（西班牙语）”……&lt;/p&gt;
+&lt;p&gt;我：“What’s all this???!”&lt;/p&gt;
+&lt;p&gt;他哈哈大笑着帮我找到了一个西班牙语维基百科的页面，原来那些密码是要对一首关于Fallas节日的叙事长诗进行短文填空，面对着一片西班牙语，只能逐个字母地对照着填，不过好歹还算顺利地完成了任务。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/fallas-2017.png&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        alt=&#34;FALLAS 2017&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;FALLAS 2017&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;MD前夜22:00，刷完了五排任务后，满足地回到青旅养精蓄锐。&lt;/p&gt;
+&lt;h2 id=&#34;3月11日&#34;&gt;3月11日
+&lt;/h2&gt;&lt;p&gt;毕竟不熟当地，没有敢夜刷，乖乖地睡到了早上六点起床，六点半开始出门刷任务。&lt;/p&gt;
+&lt;p&gt;主办方体贴地准备了一个 Google Maps 版MD地图，每个waypoint的位置和行进路线都有标明，导入之后只要打开Google Maps就可以轻松按图索骥。&lt;/p&gt;
+&lt;p&gt;出门时天还不亮，沿着任务路线一路走过去，也还没有足够的光线以好好欣赏沿路的风景，只有路过市场的时候，看到摊主开始摆摊准备卖早点，才算见到了点人间烟火。&lt;/p&gt;
+&lt;p&gt;就这样在寂静中等到了日出，天亮之后总算能欣赏风景了。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_064544.jpg&#34;
+        width=&#34;1130&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_064544_hu7f0dc784e9da4de24a472adc552a8db2_76181_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_064544_hu7f0dc784e9da4de24a472adc552a8db2_76181_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;寂静的清晨&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;177&#34;
+            data-flex-basis=&#34;427px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;寂静的清晨&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_070958.jpg&#34;
+        width=&#34;595&#34;
+        height=&#34;334&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_070958_hu3cf234f306dafaff3ff05660343afb2a_54230_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_070958_hu3cf234f306dafaff3ff05660343afb2a_54230_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;老城区中心小广场的日出&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;178&#34;
+            data-flex-basis=&#34;427px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;老城区中心小广场的日出&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_074200.jpg&#34;
+        width=&#34;1130&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_074200_hu44c93a73e4496c2a48b7728ec887be86_236363_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_074200_hu44c93a73e4496c2a48b7728ec887be86_236363_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;路上偶遇一个海王&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;177&#34;
+            data-flex-basis=&#34;427px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;路上偶遇一个海王&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_075312.jpg&#34;
+        width=&#34;357&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_075312_hue722eaf3cb5f8f2c42a371ae91c34eb5_70369_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_075312_hue722eaf3cb5f8f2c42a371ae91c34eb5_70369_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;CORREOS Y TELEGRAPHOS……大概是邮局吧，为什么别人家的邮局都这么好看！&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;56&#34;
+            data-flex-basis=&#34;134px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;CORREOS Y TELEGRAPHOS……大概是邮局吧，为什么别人家的邮局都这么好看！&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_075436.jpg&#34;
+        width=&#34;453&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_075436_hue51ec2518f7878487dd3a08149ab73ad_108184_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_075436_hue51ec2518f7878487dd3a08149ab73ad_108184_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;路边的美丽建筑&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;71&#34;
+            data-flex-basis=&#34;171px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;路边的美丽建筑&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_080131.jpg&#34;
+        width=&#34;1130&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_080131_hua9073e09b739966e1bf733ac58b0d685_172643_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_080131_hua9073e09b739966e1bf733ac58b0d685_172643_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;超漂亮的火车站&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;177&#34;
+            data-flex-basis=&#34;427px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;超漂亮的火车站&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_113243.jpg&#34;
+        width=&#34;846&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_113243_hu9a1b871d2f3ac02d9352c7dd2f77cd7a_164461_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_113243_hu9a1b871d2f3ac02d9352c7dd2f77cd7a_164461_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;穿着传统服装的可爱小姐姐&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;133&#34;
+            data-flex-basis=&#34;319px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;穿着传统服装的可爱小姐姐&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_113914.jpg&#34;
+        width=&#34;1130&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_113914_hubc16520f487a57fb518ab9194658ff61_215756_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_113914_hubc16520f487a57fb518ab9194658ff61_215756_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;给游客合影用的豪华敞篷车&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;177&#34;
+            data-flex-basis=&#34;427px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;给游客合影用的豪华敞篷车&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;一上午就在一边慢悠悠地做任务一边欣赏风景中度过，走到了合影处，可能因为挤在一起等的人太多，就先在一旁提前支起桌子办签退。&lt;/p&gt;
+&lt;p&gt;这次MD一共有24个任务，完成6个就符合最低要求，这一点之前在群里还被吐槽“别人家的MD都是12个才算完成，你们这边变成了6个就可以，是因为南方人比较懒吗？”&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/valencia-md.png&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        alt=&#34;而我当然没有制霸&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;而我当然没有制霸&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;每个玩家可以领一个免费pack，资金来源是群众自发捐款（包括paypal和现场投币两种形式），现场捐款箱做成了红桶的样子，超可爱。我见到红桶也忍不住也扔了个1€硬币进去。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170311_125032.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        
+        
+    &gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Pack包含一条橙色领巾、三张Valencia城市Bio cards、一个徽章和一条腕带。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170311_124536.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        
+        
+    &gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;合影地点是一个本来就日常挤满游客的广场，这一群拿着手机、打扮怪异的特工毫不意外地引起了围观，我在一旁站着，都被围观群众凑上来问这是在搞什么，并不会说西班牙语的我默默退后交给了旁边的友军，听着他们解释Ingrrrress（此处有销魂的弹舌音）。&lt;/p&gt;
+&lt;p&gt;合影后大家组团去不远处的另一个广场看Masclèta烟火表演，这也是Fallas节日庆典活动的一部分，每天下午都有一场。一路上人挤人，很快就和其他特工走散了，超难过的是刚系在脖子上的橙领巾也在路上挤丢了_(:з)∠)_&lt;/p&gt;
+&lt;p&gt;白日烟火没什么太有意思的地方，只能看到天上划过亮光，伴随着阵阵浓烟，只看照片没准会被误认为是恐袭现场。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170311_140103.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        
+        
+    &gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170311_140522.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        
+        
+    &gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;烟火表演期间周围几条马路可以说是名副其实的水泄不通，继续默默吐槽，这种人挤人的场合实在太适合恐袭了……表演结束之后，人群才渐渐散开。&lt;/p&gt;
+&lt;p&gt;完成签退后无所事事的我跟着一部分人流走到了中央市场。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170311_142603.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        alt=&#34;中央市场&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;中央市场&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;先尝了一下Horchata，2€一杯，之前看群里的本地玩家说这是当地的特色饮料，味道很像亚洲豆奶……嗯确实。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170311_143913.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        alt=&#34;Horchata&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;Horchata&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170311_144109.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        
+        
+    &gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;又在市场里买了一块手工pizza当午饭吃，在猎奇心促使下挑了个黑皮的。我拿到手就靠在旁边柜子上吃了，吃完了之后老板还热情地问我觉得味道怎么样（面对这么热情的问题当然要回答说很好吃了）。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170311_145216.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        
+        
+    &gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;吃饱喝足之后又去刷了一排天际线任务。&lt;/p&gt;
+&lt;p&gt;绕了一阵子之后，又回到了合影时的广场，这时广场上的喷水池谜之围了一圈人，凑近一看才发现，原来里面堆满了泡沫。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170311_163236.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        
+        
+    &gt;
+&lt;/figure&gt;
+
+&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170311_162559.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        alt=&#34;质地像沐浴露一样的泡沫，也不知是做出来这种堆满整个水池的效果，看起来够梦幻&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;质地像沐浴露一样的泡沫，也不知是做出来这种堆满整个水池的效果，看起来够梦幻&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;从早上六点逛到下午四点半的我已然筋疲力尽，决定最后去看一眼MD背景图的那个景点就回去休息。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170311_165958.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        
+        
+    &gt;
+&lt;/figure&gt;
+
+&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170311_165529.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        
+        
+    &gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Torres de Serranos 差不多是Valencia最著名的景点，这座始建于14世纪的古城门曾经有重要的军事地位。登上城门后中二病发作的我顿时脑补了一名中世纪守城士兵的日常：面对侵略者的强势火力几乎要支撑不下去，然而回头看了一眼身后城内手无寸铁的百姓，用尽最后一丝力气继续拿起弓箭浴血奋战……&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_170854.jpg&#34;
+        width=&#34;1130&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_170854_hu4bda8bc4b5be5a64f985b69c50938b28_208317_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_170854_hu4bda8bc4b5be5a64f985b69c50938b28_208317_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;城外侵略者进攻的方向&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;177&#34;
+            data-flex-basis=&#34;427px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;城外侵略者进攻的方向&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_170908.jpg&#34;
+        width=&#34;1130&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_170908_hu8fad1d323fcdc88c956c79bdbe803490_227775_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_170908_hu8fad1d323fcdc88c956c79bdbe803490_227775_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;躲在墙头放箭&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;177&#34;
+            data-flex-basis=&#34;427px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;躲在墙头放箭&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_171255.jpg&#34;
+        width=&#34;1130&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_171255_hu357b8de3d2c2d6a2c91f1a068c785006_250562_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_171255_hu357b8de3d2c2d6a2c91f1a068c785006_250562_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;宁静的老城&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;177&#34;
+            data-flex-basis=&#34;427px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;宁静的老城&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_171421.jpg&#34;
+        width=&#34;1130&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_171421_hub142b69341616b924dc0d255e33e92a5_145189_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_171421_hub142b69341616b924dc0d255e33e92a5_145189_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;宁静的老城&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;177&#34;
+            data-flex-basis=&#34;427px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;宁静的老城&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_171338.jpg&#34;
+        width=&#34;357&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_171338_hu674afd6e27e66b9c540179cb3bc1c3c1_39546_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_171338_hu674afd6e27e66b9c540179cb3bc1c3c1_39546_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;城门上飘扬的我军旗帜（上面有抵抗蓝的颜色~）&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;56&#34;
+            data-flex-basis=&#34;134px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;城门上飘扬的我军旗帜（上面有抵抗蓝的颜色~）&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_175216.jpg&#34;
+        width=&#34;595&#34;
+        height=&#34;334&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_175216_huf273a2832bdb21bf31f3f81f094a0953_85993_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_175216_huf273a2832bdb21bf31f3f81f094a0953_85993_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;丑不拉叽的城门背面&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;178&#34;
+            data-flex-basis=&#34;427px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;丑不拉叽的城门背面&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;回青旅休息了一下之后，天已经黑了，便出门买晚饭。天黑之后气温骤降，我也不愿意往远走，只好就近在旁边广场上的油条摊子上买了半打油条。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_193356.jpg&#34;
+        width=&#34;1130&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_193356_hu819dd87fdd56a861ebfd6f58baac0a04_141454_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_193356_hu819dd87fdd56a861ebfd6f58baac0a04_141454_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;177&#34;
+            data-flex-basis=&#34;427px&#34;
+        
+    &gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_193409.jpg&#34;
+        width=&#34;1130&#34;
+        height=&#34;635&#34;
+        srcset=&#34;https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_193409_hu33286b810617a35a6eaedb82309b6e64_123914_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2017-03-ingress-mission-day-valencia/IMG_20170311_193409_hu33286b810617a35a6eaedb82309b6e64_123914_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;177&#34;
+            data-flex-basis=&#34;427px&#34;
+        
+    &gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote
+    class=&#34;instagram-media&#34;
+    data-instgrm-captioned
+    data-instgrm-permalink=&#34;https://www.instagram.com/p/BSMtOhGDrMi&#34;
+    data-instgrm-version=&#34;14&#34;
+    style=&#34;
+      background: #fff;
+      border: 0;
+      border-radius: 3px;
+      box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.5), 0 1px 10px 0 rgba(0, 0, 0, 0.15);
+      margin: 1px;
+      max-width: 540px;
+      min-width: 326px;
+      padding: 0;
+      width: 99.375%;
+      width: -webkit-calc(100% - 2px);
+      width: calc(100% - 2px);
+    &#34;
+  &gt;
+    &lt;div style=&#34;padding: 16px&#34;&gt;
+      &lt;a
+        href=&#34;https://www.instagram.com/p/BSMtOhGDrMi&#34;
+        style=&#34;
+          background: #ffffff;
+          line-height: 0;
+          padding: 0 0;
+          text-align: center;
+          text-decoration: none;
+          width: 100%;
+        &#34;
+        target=&#34;_blank&#34;
+      &gt;
+        &lt;div style=&#34;display: flex; flex-direction: row; align-items: center&#34;&gt;
+          &lt;div
+            style=&#34;
+              background-color: #f4f4f4;
+              border-radius: 50%;
+              flex-grow: 0;
+              height: 40px;
+              margin-right: 14px;
+              width: 40px;
+            &#34;
+          &gt;&lt;/div&gt;
+          &lt;div
+            style=&#34;
+              display: flex;
+              flex-direction: column;
+              flex-grow: 1;
+              justify-content: center;
+            &#34;
+          &gt;
+            &lt;div
+              style=&#34;
+                background-color: #f4f4f4;
+                border-radius: 4px;
+                flex-grow: 0;
+                height: 14px;
+                margin-bottom: 6px;
+                width: 100px;
+              &#34;
+            &gt;&lt;/div&gt;
+            &lt;div
+              style=&#34;
+                background-color: #f4f4f4;
+                border-radius: 4px;
+                flex-grow: 0;
+                height: 14px;
+                width: 60px;
+              &#34;
+            &gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div style=&#34;padding: 19% 0&#34;&gt;&lt;/div&gt;
+        &lt;div
+          style=&#34;display: block; height: 50px; margin: 0 auto 12px; width: 50px&#34;
+        &gt;
+          &lt;svg
+            width=&#34;50px&#34;
+            height=&#34;50px&#34;
+            viewBox=&#34;0 0 60 60&#34;
+            version=&#34;1.1&#34;
+            xmlns=&#34;https://www.w3.org/2000/svg&#34;
+            xmlns:xlink=&#34;https://www.w3.org/1999/xlink&#34;
+          &gt;
+            &lt;g stroke=&#34;none&#34; stroke-width=&#34;1&#34; fill=&#34;none&#34; fill-rule=&#34;evenodd&#34;&gt;
+              &lt;g transform=&#34;translate(-511.000000, -20.000000)&#34; fill=&#34;#000000&#34;&gt;
+                &lt;g&gt;
+                  &lt;path
+                    d=&#34;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&#34;
+                  &gt;&lt;/path&gt;
+                &lt;/g&gt;
+              &lt;/g&gt;
+            &lt;/g&gt;
+          &lt;/svg&gt;
+        &lt;/div&gt;
+        &lt;div style=&#34;padding-top: 8px&#34;&gt;
+          &lt;div
+            style=&#34;
+              color: #3897f0;
+              font-family: Arial, sans-serif;
+              font-size: 14px;
+              font-style: normal;
+              font-weight: 550;
+              line-height: 18px;
+            &#34;
+          &gt;
+            View this post on Instagram
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div style=&#34;padding: 12.5% 0&#34;&gt;&lt;/div&gt;
+        &lt;div
+          style=&#34;
+            display: flex;
+            flex-direction: row;
+            margin-bottom: 14px;
+            align-items: center;
+          &#34;
+        &gt;
+          &lt;div&gt;
+            &lt;div
+              style=&#34;
+                background-color: #f4f4f4;
+                border-radius: 50%;
+                height: 12.5px;
+                width: 12.5px;
+                transform: translateX(0px) translateY(7px);
+              &#34;
+            &gt;&lt;/div&gt;
+            &lt;div
+              style=&#34;
+                background-color: #f4f4f4;
+                height: 12.5px;
+                transform: rotate(-45deg) translateX(3px) translateY(1px);
+                width: 12.5px;
+                flex-grow: 0;
+                margin-right: 14px;
+                margin-left: 2px;
+              &#34;
+            &gt;&lt;/div&gt;
+            &lt;div
+              style=&#34;
+                background-color: #f4f4f4;
+                border-radius: 50%;
+                height: 12.5px;
+                width: 12.5px;
+                transform: translateX(9px) translateY(-18px);
+              &#34;
+            &gt;&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div style=&#34;margin-left: 8px&#34;&gt;
+            &lt;div
+              style=&#34;
+                background-color: #f4f4f4;
+                border-radius: 50%;
+                flex-grow: 0;
+                height: 20px;
+                width: 20px;
+              &#34;
+            &gt;&lt;/div&gt;
+            &lt;div
+              style=&#34;
+                width: 0;
+                height: 0;
+                border-top: 2px solid transparent;
+                border-left: 6px solid #f4f4f4;
+                border-bottom: 2px solid transparent;
+                transform: translateX(16px) translateY(-4px) rotate(30deg);
+              &#34;
+            &gt;&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div style=&#34;margin-left: auto&#34;&gt;
+            &lt;div
+              style=&#34;
+                width: 0px;
+                border-top: 8px solid #f4f4f4;
+                border-right: 8px solid transparent;
+                transform: translateY(16px);
+              &#34;
+            &gt;&lt;/div&gt;
+            &lt;div
+              style=&#34;
+                background-color: #f4f4f4;
+                flex-grow: 0;
+                height: 12px;
+                width: 16px;
+                transform: translateY(-4px);
+              &#34;
+            &gt;&lt;/div&gt;
+            &lt;div
+              style=&#34;
+                width: 0;
+                height: 0;
+                border-top: 8px solid #f4f4f4;
+                border-left: 8px solid transparent;
+                transform: translateY(-4px) translateX(8px);
+              &#34;
+            &gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div
+          style=&#34;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+            justify-content: center;
+            margin-bottom: 24px;
+          &#34;
+        &gt;
+          &lt;div
+            style=&#34;
+              background-color: #f4f4f4;
+              border-radius: 4px;
+              flex-grow: 0;
+              height: 14px;
+              margin-bottom: 6px;
+              width: 224px;
+            &#34;
+          &gt;&lt;/div&gt;
+          &lt;div
+            style=&#34;
+              background-color: #f4f4f4;
+              border-radius: 4px;
+              flex-grow: 0;
+              height: 14px;
+              width: 144px;
+            &#34;
+          &gt;&lt;/div&gt;&lt;/div
+      &gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script async src=&#34;//www.instagram.com/embed.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;这种churros，正经一点的中文译名叫吉事果，比国内的油条要硬，吃的时候要蘸白糖或巧克力酱。也就很一般，不过来一次西班牙还是要尝一下当地特色的。&lt;/p&gt;
+&lt;p&gt;其实Valencia最著名的特色美食是西班牙海鲜烩饭Paella，然而饭店里卖的每一份至少是两人的量。独自旅游也就是在吃东西时最不方便了，没人一起吃，就只好放弃。（于是回到宿舍之后我就去家乐福买了一大盘微波炉加热版Paella，自己吃了两顿吃完。&lt;/p&gt;
+&lt;h2 id=&#34;3月12日&#34;&gt;3月12日
+&lt;/h2&gt;&lt;p&gt;为了不耽误周一的课，周日一早就要起来赶飞机告别Valencia了。走在来时的道路上，贪婪地欣赏着一路的景色，不舍地离开这座美丽的南方小城。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170312_084344.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        
+        
+    &gt;
+&lt;/figure&gt;
+
+&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://img.nautile.one/IMG_20170312_084259.jpg&#34;
+        
+        
+        
+        loading=&#34;lazy&#34;
+        
+        
+    &gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;到了机场，毫不意外地看到依然扔着一地 portal keys。在Comm里说了句 Goodbye Valencia，上了飞机，回到法国去继续被冻得瑟瑟发抖。&lt;/p&gt;
+&lt;p&gt;我似乎天生就对南方有着好感，即使身在南方也一直向往着更南边，在蒙彼利埃时爱着瓦伦西亚，在苏州时爱着福州。几天前在福州MD，看着闽江边各种南方特色的树木，突然就又想起了瓦伦西亚，想起了这第一次MD之行的经历。翻出移动硬盘里的照片一张张看，总算大概回忆起了八个月前的这次旅行。&lt;/p&gt;
+&lt;p&gt;最后，希望以后有更多机会能参加这样的官方活动，并许愿……明年回法国之后能有境内Anomally吧。&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -1968,7 +2124,7 @@ CORREOS Y TELEGRAPHOS……大概是邮局吧，为什么别人家的邮局都�
         <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
         
         <guid>https://blog.nautile.one/post/2016-09-jep-paris/</guid>
-        <description>&lt;img src="https://img.nautile.one/image/20160917-palais-de-lelysee.jpeg" alt="Featured image of post JEP Paris 周末" /&gt;&lt;h2 id=&#34;17-sep-2016&#34;&gt;17 sep 2016
+        <description>&lt;img src="https://img.nautile.one/20160917-palais-de-lelysee.jpeg" alt="Featured image of post JEP Paris 周末" /&gt;&lt;h2 id=&#34;17-sep-2016&#34;&gt;17 sep 2016
 &lt;/h2&gt;&lt;p&gt;每年九月的第三个周末是欧洲遗产日，很多政府部门都会在这个周末一年一度地向公众开放，于是当然要把握机会，周末直奔巴黎。&lt;/p&gt;
 &lt;h3 id=&#34;爱丽舍宫&#34;&gt;爱丽舍宫
 &lt;/h3&gt;&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;

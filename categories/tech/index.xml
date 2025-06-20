@@ -6,18 +6,7 @@
         <description>Recent content in Tech on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.nautile.one/categories/tech/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>博客心得</title>
-        <link>https://blog.nautile.one/post/blog-thinkings/</link>
-        <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.nautile.one/post/blog-thinkings/</guid>
-        <description>&lt;h2 id=&#34;标签和分类的用法&#34;&gt;标签和分类的用法
-&lt;/h2&gt;&lt;p&gt;因为已经习惯了用其他博客服务提供的分类、标签结构，对于Hugo的此类功能，一开始以为只是在每篇文章的开头部分，所有列在categories和tags里的内容，按照所见即所得的形式生成相应的标签和分类，还思考了很久命名形式、要不要包含多语言；直到终于注意到模板里有一个example-category才开始思考具体的用法。所以其实可以用更简单的形式给分类命名，之后在对应categories/tags文件夹里的_index.md里再去定义title作为显示的名称。&lt;/p&gt;
-&lt;p&gt;标签也是同理，虽然模板里原本没有自带tags文件夹，但是参照categories的形式自己创建tags文件夹之后，也可以以同样的方法对每个标签创建单独的页面、配置显示名称。&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Fri, 20 Jun 2025 00:03:42 -0400</lastBuildDate><atom:link href="https://blog.nautile.one/categories/tech/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>博客装修记</title>
         <link>https://blog.nautile.one/post/blog-decorations/</link>
         <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
@@ -36,8 +25,19 @@
 &lt;h2 id=&#34;图床&#34;&gt;图床
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;从零开始搭建你的免费图床系统（Cloudflare R2 + WebP Cloud）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.iport.yfi.moe/zh/guide/for-cloudflare-r2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;S3 Image Port&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.yfei.page/cn/2021/03/lastmod-hugo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;自动添加博客页面更新日期&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>博客心得</title>
+        <link>https://blog.nautile.one/post/blog-reflections/</link>
+        <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.nautile.one/post/blog-reflections/</guid>
+        <description>&lt;h2 id=&#34;标签和分类的用法&#34;&gt;标签和分类的用法
+&lt;/h2&gt;&lt;p&gt;因为已经习惯了用其他博客服务提供的分类、标签结构，对于Hugo的此类功能，一开始以为只是在每篇文章的开头部分，所有列在categories和tags里的内容，按照所见即所得的形式生成相应的标签和分类，还思考了很久命名形式、要不要包含多语言；直到终于注意到模板里有一个example-category才开始思考具体的用法。所以其实可以用更简单的形式给分类命名，之后在对应categories/tags文件夹里的_index.md里再去定义title作为显示的名称。&lt;/p&gt;
+&lt;p&gt;标签也是同理，虽然模板里原本没有自带tags文件夹，但是参照categories的形式自己创建tags文件夹之后，也可以以同样的方法对每个标签创建单独的页面、配置显示名称。&lt;/p&gt;
 </description>
         </item>
         
