@@ -6,7 +6,7 @@
         <description>Recent content in Categories on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Fri, 20 Jun 2025 00:03:42 -0400</lastBuildDate><atom:link href="https://blog.nautile.one/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Jun 2025 02:18:22 -0400</lastBuildDate><atom:link href="https://blog.nautile.one/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Tech</title>
         <link>https://blog.nautile.one/categories/tech/</link>
         <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
@@ -28,14 +28,6 @@
         <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
         
         <guid>https://blog.nautile.one/categories/performance--%E6%BC%94%E5%87%BA/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Daily | 日常</title>
-        <link>https://blog.nautile.one/categories/daily--%E6%97%A5%E5%B8%B8/</link>
-        <pubDate>Wed, 01 Jun 2022 01:30:00 +0000</pubDate>
-        
-        <guid>https://blog.nautile.one/categories/daily--%E6%97%A5%E5%B8%B8/</guid>
         <description></description>
         </item>
         <item>
