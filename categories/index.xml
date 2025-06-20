@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Nautili Blog</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://blog.nautile.one/categories/</link>
         <description>Recent content in Categories on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.nautile.one/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Tech</title>
-        <link>http://localhost:1313/categories/tech/</link>
+        <link>https://blog.nautile.one/categories/tech/</link>
         <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/tech/</guid>
+        <guid>https://blog.nautile.one/categories/tech/</guid>
         <description></description>
         </item>
         <item>
         <title>Performance</title>
-        <link>http://localhost:1313/categories/performance/</link>
+        <link>https://blog.nautile.one/categories/performance/</link>
         <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/performance/</guid>
+        <guid>https://blog.nautile.one/categories/performance/</guid>
         <description></description>
         </item>
         <item>
         <title>日常</title>
-        <link>http://localhost:1313/categories/life/</link>
+        <link>https://blog.nautile.one/categories/life/</link>
         <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/life/</guid>
+        <guid>https://blog.nautile.one/categories/life/</guid>
         <description></description>
         </item>
         <item>
         <title>Performance | 演出</title>
-        <link>http://localhost:1313/categories/performance--%E6%BC%94%E5%87%BA/</link>
+        <link>https://blog.nautile.one/categories/performance--%E6%BC%94%E5%87%BA/</link>
         <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/performance--%E6%BC%94%E5%87%BA/</guid>
+        <guid>https://blog.nautile.one/categories/performance--%E6%BC%94%E5%87%BA/</guid>
         <description></description>
         </item>
         <item>
         <title>游记</title>
-        <link>http://localhost:1313/categories/travel/</link>
+        <link>https://blog.nautile.one/categories/travel/</link>
         <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/travel/</guid>
+        <guid>https://blog.nautile.one/categories/travel/</guid>
         <description></description>
         </item>
         <item>
         <title>Daily | 日常</title>
-        <link>http://localhost:1313/categories/daily--%E6%97%A5%E5%B8%B8/</link>
+        <link>https://blog.nautile.one/categories/daily--%E6%97%A5%E5%B8%B8/</link>
         <pubDate>Wed, 01 Jun 2022 01:30:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/daily--%E6%97%A5%E5%B8%B8/</guid>
+        <guid>https://blog.nautile.one/categories/daily--%E6%97%A5%E5%B8%B8/</guid>
         <description></description>
         </item>
         <item>
         <title>Syntax</title>
-        <link>http://localhost:1313/categories/syntax/</link>
+        <link>https://blog.nautile.one/categories/syntax/</link>
         <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/syntax/</guid>
+        <guid>https://blog.nautile.one/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>http://localhost:1313/categories/themes/</link>
+        <link>https://blog.nautile.one/categories/themes/</link>
         <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/themes/</guid>
+        <guid>https://blog.nautile.one/categories/themes/</guid>
         <description></description>
         </item>
         

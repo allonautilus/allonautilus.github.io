@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Three-Kingdoms on Nautili Blog</title>
-        <link>http://localhost:1313/tags/three-kingdoms/</link>
+        <link>https://blog.nautile.one/tags/three-kingdoms/</link>
         <description>Recent content in Three-Kingdoms on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/three-kingdoms/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.nautile.one/tags/three-kingdoms/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>「竭股肱之力，效忠貞之節」帶來的史盲震撼</title>
-        <link>http://localhost:1313/post/2023-06-24-historical-shock/</link>
+        <link>https://blog.nautile.one/post/2023-06-24-historical-shock/</link>
         <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/2023-06-24-historical-shock/</guid>
+        <guid>https://blog.nautile.one/post/2023-06-24-historical-shock/</guid>
         <description>&lt;p&gt;讀方北辰的《諸葛亮傳》，書中寫到諸葛亮的那句「竭股肱之力，效忠貞之節，繼之以死」歷史原型出自《左傳·僖公九年》，讓我好奇之下去讀了背景資料，獲得一些史盲震撼。&lt;/p&gt;
 &lt;p&gt;歷史背景是，晉獻公臨終前把奚齊託孤給荀息，荀息回答道：「&lt;em&gt;臣竭其股肱之力，加之以忠貞。其濟，君之靈也；不濟，則以死繼之。&lt;/em&gt;」&lt;br&gt;
 獻公問他何謂忠貞，荀息回答：「公家之利，知無不為，忠也；送往事居，耦俱無猜，貞也。」&lt;br&gt;
@@ -28,299 +28,337 @@
         </item>
         <item>
         <title>古塔和桃花——涿州一日游</title>
-        <link>http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/</link>
+        <link>https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/</link>
         <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/</guid>
-        <description>&lt;img src="http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064154699-peachflower.jpg" alt="Featured image of post 古塔和桃花——涿州一日游" /&gt;&lt;p&gt;自看了&lt;a class=&#34;link&#34; href=&#34;https://www.jjwxc.net/onebook.php?novelid=5148726&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/</guid>
+        <description>&lt;img src="https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064154699-peachflower.jpg" alt="Featured image of post 古塔和桃花——涿州一日游" /&gt;&lt;p&gt;自看了&lt;a class=&#34;link&#34; href=&#34;https://www.jjwxc.net/onebook.php?novelid=5148726&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《玛丽苏和金手指和三国》&lt;/a&gt;后，一直惦记着结局中丞相要去看的涿郡桃花。最近，又看到有小红书博主分享的北京周边游中提到涿州，于是让我受到启发，抓住春光的尾巴，来了一次追寻桃花的一日游。&lt;/p&gt;
 &lt;h2 id=&#34;华阳公园&#34;&gt;华阳公园
 &lt;/h2&gt;&lt;p&gt;从北京乘坐838路公交，在「北坛村北」下车，步行不久便抵达了华阳公园。乍看之下，与其他县城的公园并无太大差别，直到后来在博物馆里读到的时候才知道，原来这里就是战国时燕国设宴送别荆轲的华阳台旧址所在。&lt;/p&gt;
 &lt;h2 id=&#34;辽代双塔&#34;&gt;辽代双塔
 &lt;/h2&gt;&lt;p&gt;涿州的双塔均为辽代建筑，都是八角仿木构楼阁式砖塔。智度寺塔（南塔）建于辽太平十一年（1031年），5层，高44米；云居寺塔（北塔）建于辽大安八年（1092年），6层，高55.69米，是少见的层数为偶数的塔。涿州古八景之一便是这里的「双塔晴烟」。
 2001年，双塔被公布为第五批全国重点文物保护单位。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_024451767-zhuozhou-north-pagoda.jpg&#34;
-	width=&#34;827&#34;
-	height=&#34;827&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_024451767-zhuozhou-north-pagoda_huca8e70bde51269b5d815843474eb58cd_141415_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_024451767-zhuozhou-north-pagoda_huca8e70bde51269b5d815843474eb58cd_141415_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;北塔-云居寺塔&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;100&#34;
-		data-flex-basis=&#34;240px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_024947650-zhuozhou-south-pagoda.jpg&#34;
-	width=&#34;620&#34;
-	height=&#34;827&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_024947650-zhuozhou-south-pagoda_hu5b3a2f6a8f7b0919cd1bd7806c339168_179202_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_024947650-zhuozhou-south-pagoda_hu5b3a2f6a8f7b0919cd1bd7806c339168_179202_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;南塔-智度寺塔&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;74&#34;
-		data-flex-basis=&#34;179px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_024451767-zhuozhou-north-pagoda.jpg&#34;
+        width=&#34;827&#34;
+        height=&#34;827&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_024451767-zhuozhou-north-pagoda_huca8e70bde51269b5d815843474eb58cd_141415_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_024451767-zhuozhou-north-pagoda_huca8e70bde51269b5d815843474eb58cd_141415_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;北塔-云居寺塔&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;100&#34;
+            data-flex-basis=&#34;240px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;北塔-云居寺塔&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_024947650-zhuozhou-south-pagoda.jpg&#34;
+        width=&#34;620&#34;
+        height=&#34;827&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_024947650-zhuozhou-south-pagoda_hu5b3a2f6a8f7b0919cd1bd7806c339168_179202_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_024947650-zhuozhou-south-pagoda_hu5b3a2f6a8f7b0919cd1bd7806c339168_179202_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;南塔-智度寺塔&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;74&#34;
+            data-flex-basis=&#34;179px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;南塔-智度寺塔&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;这两座塔隐藏在小巷子中。北塔被围起来无法接近，而南塔智度寺塔据说刚刚开放，每周二至周日的9:00-17:00开放，中午12:00-14:00休息，但只能在塔所在的小院里绕行，无法登塔。&lt;/p&gt;
 &lt;p&gt;相关文章：
 &lt;a class=&#34;link&#34; href=&#34;http://paper.people.com.cn/rmrb/html/2023-03/27/nw.D110000renmrb_20230327_1-07.htm#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;孙立极,王 珏.做好双塔保护 展现千年古韵（来信调查）[N]. 人民日报，2023-03-27(7).&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;涿州市博物馆&#34;&gt;涿州市博物馆
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_030834909-zhuozhou-museum.jpg&#34;
-	width=&#34;1103&#34;
-	height=&#34;827&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_030834909-zhuozhou-museum_hu9fcf792a28bb5fc077ce7eeaa3f64faa_269951_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_030834909-zhuozhou-museum_hu9fcf792a28bb5fc077ce7eeaa3f64faa_269951_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;涿州博物馆&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_031435466-history-of-zhuoshui.jpg&#34;
-	width=&#34;1380&#34;
-	height=&#34;777&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_031435466-history-of-zhuoshui_hubd58b5eea90ff3475e2027d31ae65ea9_319967_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_031435466-history-of-zhuoshui_hubd58b5eea90ff3475e2027d31ae65ea9_319967_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;涿水长歌&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_030834909-zhuozhou-museum.jpg&#34;
+        width=&#34;1103&#34;
+        height=&#34;827&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_030834909-zhuozhou-museum_hu9fcf792a28bb5fc077ce7eeaa3f64faa_269951_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_030834909-zhuozhou-museum_hu9fcf792a28bb5fc077ce7eeaa3f64faa_269951_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;涿州博物馆&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;133&#34;
+            data-flex-basis=&#34;320px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;涿州博物馆&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_031435466-history-of-zhuoshui.jpg&#34;
+        width=&#34;1380&#34;
+        height=&#34;777&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_031435466-history-of-zhuoshui_hubd58b5eea90ff3475e2027d31ae65ea9_319967_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_031435466-history-of-zhuoshui_hubd58b5eea90ff3475e2027d31ae65ea9_319967_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;涿水长歌&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;177&#34;
+            data-flex-basis=&#34;426px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;涿水长歌&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;博物馆需要通过「涿州市博物馆」微信公众号预约，不过现场预约也来得及，预约后才可以在门口换取纸质门票。馆内的展览设计非常精美，特别适合游客全面了解这座城市的历史。重要展品可以通过扫码进入小程序，听取语音导览。&lt;/p&gt;
 &lt;p&gt;博物馆里把当地名人列了个遍，好笑的是，除了刘备、张飞等等，居然还要带上刘封、刘禅、刘理等人，甚至还有「刘备夫人」、「刘禅妻子」……你们直接讲刘备张飞全家就好了啦。&lt;/p&gt;
 &lt;p&gt;在博物馆还读到，「涿州八景」之中还有「楼桑春社」，每年三月廿三（传闻的刘备诞辰）有各方百姓云集于三义宫举行祭祀。可惜除了前几年还有官员装模作样地进行仪式之外，已经没有什么实际的遗存了。&lt;/p&gt;
 &lt;p&gt;我也是在博物馆里才发现，涿州的古称原来就是范阳，也就是卢植、卢照邻、六祖慧能等一系列范阳卢氏的郡望。而且甚至有很多可以追溯到西周时期的遗址。没想到这个河北的小城竟也如此在史书上占有一席之地。&lt;/p&gt;
 &lt;p&gt;出了博物馆，在对面有一家叫作「牛肉罩饼」的小饭店解决了午餐。据说这种食物只在保定有，其实和羊肉泡馍有点像，把撕碎的饼泡在卤牛肉里，虽然牛肉有点咸，但味道很香。牛肉9元/两，饼1元/两，可以自己搭配，还另有炒菜可以点。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_042752134-niurouzhaobing.jpg&#34;
-	width=&#34;1103&#34;
-	height=&#34;827&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_042752134-niurouzhaobing_hubd58b5eea90ff3475e2027d31ae65ea9_216826_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_042752134-niurouzhaobing_hubd58b5eea90ff3475e2027d31ae65ea9_216826_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;牛肉罩饼&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_042752134-niurouzhaobing.jpg&#34;
+        width=&#34;1103&#34;
+        height=&#34;827&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_042752134-niurouzhaobing_hubd58b5eea90ff3475e2027d31ae65ea9_216826_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_042752134-niurouzhaobing_hubd58b5eea90ff3475e2027d31ae65ea9_216826_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;牛肉罩饼&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;133&#34;
+            data-flex-basis=&#34;320px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;牛肉罩饼&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;鼓楼大街&#34;&gt;鼓楼大街
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_050035646-guloudajie.jpg&#34;
-	width=&#34;1103&#34;
-	height=&#34;827&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_050035646-guloudajie_hu3bbcce2d6f7e897dbcb3b97d58813ee5_382148_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_050035646-guloudajie_hu3bbcce2d6f7e897dbcb3b97d58813ee5_382148_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;鼓楼大街&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_050035646-guloudajie.jpg&#34;
+        width=&#34;1103&#34;
+        height=&#34;827&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_050035646-guloudajie_hu3bbcce2d6f7e897dbcb3b97d58813ee5_382148_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_050035646-guloudajie_hu3bbcce2d6f7e897dbcb3b97d58813ee5_382148_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;鼓楼大街&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;133&#34;
+            data-flex-basis=&#34;320px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;鼓楼大街&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;鼓楼大街是一条仿古商业街，也在附近不远。周末人还不少，路边小摊卖着千篇一律的脆皮烤肠等小吃。还有商贩在卖小鸡小鸭小龟小兔，很多小孩围着看。&lt;/p&gt;
 &lt;p&gt;涿州的公交很难等，很少有站牌，班次也不固定。据本地人说，有一个微信群里面会通知公交班次，但间隔还是很久。我本想坐公交去张飞庙，但久等不来，只好叫了网约车前往。&lt;/p&gt;
 &lt;h2 id=&#34;张飞庙&#34;&gt;张飞庙
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061443242-zhang-fei-temple-gate.jpg&#34;
-	width=&#34;1146&#34;
-	height=&#34;827&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061443242-zhang-fei-temple-gate_hubd58b5eea90ff3475e2027d31ae65ea9_283848_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061443242-zhang-fei-temple-gate_hubd58b5eea90ff3475e2027d31ae65ea9_283848_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;张飞庙大门&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;138&#34;
-		data-flex-basis=&#34;332px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061802244-zhang-fei-temple-stele.jpg&#34;
-	width=&#34;1550&#34;
-	height=&#34;827&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061802244-zhang-fei-temple-stele_hubd58b5eea90ff3475e2027d31ae65ea9_393049_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061802244-zhang-fei-temple-stele_hubd58b5eea90ff3475e2027d31ae65ea9_393049_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;张飞庙文保碑及简介&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;187&#34;
-		data-flex-basis=&#34;449px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_071804454-zhang-fei-temple-welcome.jpg&#34;
-	width=&#34;1157&#34;
-	height=&#34;827&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_071804454-zhang-fei-temple-welcome_hubd58b5eea90ff3475e2027d31ae65ea9_195672_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_071804454-zhang-fei-temple-welcome_hubd58b5eea90ff3475e2027d31ae65ea9_195672_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;张飞庙欢迎您&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;139&#34;
-		data-flex-basis=&#34;335px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061443242-zhang-fei-temple-gate.jpg&#34;
+        width=&#34;1146&#34;
+        height=&#34;827&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061443242-zhang-fei-temple-gate_hubd58b5eea90ff3475e2027d31ae65ea9_283848_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061443242-zhang-fei-temple-gate_hubd58b5eea90ff3475e2027d31ae65ea9_283848_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;张飞庙大门&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;138&#34;
+            data-flex-basis=&#34;332px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;张飞庙大门&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061802244-zhang-fei-temple-stele.jpg&#34;
+        width=&#34;1550&#34;
+        height=&#34;827&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061802244-zhang-fei-temple-stele_hubd58b5eea90ff3475e2027d31ae65ea9_393049_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061802244-zhang-fei-temple-stele_hubd58b5eea90ff3475e2027d31ae65ea9_393049_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;张飞庙文保碑及简介&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;187&#34;
+            data-flex-basis=&#34;449px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;张飞庙文保碑及简介&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_071804454-zhang-fei-temple-welcome.jpg&#34;
+        width=&#34;1157&#34;
+        height=&#34;827&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_071804454-zhang-fei-temple-welcome_hubd58b5eea90ff3475e2027d31ae65ea9_195672_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_071804454-zhang-fei-temple-welcome_hubd58b5eea90ff3475e2027d31ae65ea9_195672_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;张飞庙欢迎您&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;139&#34;
+            data-flex-basis=&#34;335px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;张飞庙欢迎您&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;张飞庙地处偏远的农田之间，不过也总有三三两两的游客驾车来参观。&lt;/p&gt;
 &lt;p&gt;在景点门口，有一个小摊位专门提供武器供游客拍照。摊位上播放着《卧龙吟》，我本以为会把《央三》原声全都放过一遍，但听了半天发现只循环播放那一首，不知是否是什么亮粉行为。&lt;/p&gt;
 &lt;p&gt;旁边还有一个名为「涿郡粮食集」的地方，看起来是想面向游客办市集，但都没有人认领摊位。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061458323-market-gate.jpg&#34;
-	width=&#34;1289&#34;
-	height=&#34;827&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061458323-market-gate_hubd58b5eea90ff3475e2027d31ae65ea9_520748_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061458323-market-gate_hubd58b5eea90ff3475e2027d31ae65ea9_520748_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;涿郡粮食集&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;155&#34;
-		data-flex-basis=&#34;374px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061728778-zhang-fei-butchery.jpg&#34;
-	width=&#34;1103&#34;
-	height=&#34;827&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061728778-zhang-fei-butchery_hubd58b5eea90ff3475e2027d31ae65ea9_328448_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061728778-zhang-fei-butchery_hubd58b5eea90ff3475e2027d31ae65ea9_328448_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;张飞肉铺&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061458323-market-gate.jpg&#34;
+        width=&#34;1289&#34;
+        height=&#34;827&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061458323-market-gate_hubd58b5eea90ff3475e2027d31ae65ea9_520748_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061458323-market-gate_hubd58b5eea90ff3475e2027d31ae65ea9_520748_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;涿郡粮食集&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;155&#34;
+            data-flex-basis=&#34;374px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;涿郡粮食集&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061728778-zhang-fei-butchery.jpg&#34;
+        width=&#34;1103&#34;
+        height=&#34;827&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061728778-zhang-fei-butchery_hubd58b5eea90ff3475e2027d31ae65ea9_328448_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_061728778-zhang-fei-butchery_hubd58b5eea90ff3475e2027d31ae65ea9_328448_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;张飞肉铺&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;133&#34;
+            data-flex-basis=&#34;320px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;张飞肉铺&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;进门右手边是桓侯祠，左边……据说是桃园结义原址。&lt;/p&gt;
 &lt;p&gt;先向右看了桓侯祠，有几座古碑原立在这里，后来都换上了复制品。&lt;/p&gt;
 &lt;p&gt;正殿当然是张桓侯在高坐，塑像的样子十分不凡。殿内墙壁上一圈壁画以连环画般的可爱风格描摹了桓侯壮阔的一生。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063721447-wanguliufang.jpg&#34;
-	width=&#34;1159&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063721447-wanguliufang_hubd58b5eea90ff3475e2027d31ae65ea9_325247_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063721447-wanguliufang_hubd58b5eea90ff3475e2027d31ae65ea9_325247_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;万古流芳&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063257591_huanhou_shrine_statue.jpg&#34;
-	width=&#34;648&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063257591_huanhou_shrine_statue_hubd58b5eea90ff3475e2027d31ae65ea9_175992_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063257591_huanhou_shrine_statue_hubd58b5eea90ff3475e2027d31ae65ea9_175992_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;桓侯祠塑像&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;74&#34;
-		data-flex-basis=&#34;178px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063532316-battling-cao.jpg&#34;
-	width=&#34;1159&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063532316-battling-cao_hu4fbe707e7b3ca4deff3a92542e396359_337068_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063532316-battling-cao_hu4fbe707e7b3ca4deff3a92542e396359_337068_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;雄赳赳吓碎老曹肝胆&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063721447-wanguliufang.jpg&#34;
+        width=&#34;1159&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063721447-wanguliufang_hubd58b5eea90ff3475e2027d31ae65ea9_325247_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063721447-wanguliufang_hubd58b5eea90ff3475e2027d31ae65ea9_325247_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;万古流芳&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;133&#34;
+            data-flex-basis=&#34;320px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;万古流芳&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063257591_huanhou_shrine_statue.jpg&#34;
+        width=&#34;648&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063257591_huanhou_shrine_statue_hubd58b5eea90ff3475e2027d31ae65ea9_175992_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063257591_huanhou_shrine_statue_hubd58b5eea90ff3475e2027d31ae65ea9_175992_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;桓侯祠塑像&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;74&#34;
+            data-flex-basis=&#34;178px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;桓侯祠塑像&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063532316-battling-cao.jpg&#34;
+        width=&#34;1159&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063532316-battling-cao_hu4fbe707e7b3ca4deff3a92542e396359_337068_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063532316-battling-cao_hu4fbe707e7b3ca4deff3a92542e396359_337068_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;雄赳赳吓碎老曹肝胆&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;133&#34;
+            data-flex-basis=&#34;320px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;雄赳赳吓碎老曹肝胆&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;旁边一座忠烈殿，远远能看到里面的黄袍身影，我走进去之前就预料到这里应是供奉着桓侯生死不改的好兄弟了。&lt;/p&gt;
 &lt;p&gt;进门之后又惊喜——居然亮亮也在这里喔！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_062733165-zhongliedian-gate.jpg&#34;
-	width=&#34;1159&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_062733165-zhongliedian-gate_hubd58b5eea90ff3475e2027d31ae65ea9_261728_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_062733165-zhongliedian-gate_hubd58b5eea90ff3475e2027d31ae65ea9_261728_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;忠烈殿大门&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063004609-zhongliedian-inside.jpg&#34;
-	width=&#34;1159&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063004609-zhongliedian-inside_hubd58b5eea90ff3475e2027d31ae65ea9_187581_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063004609-zhongliedian-inside_hubd58b5eea90ff3475e2027d31ae65ea9_187581_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;忠烈殿内&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_062733165-zhongliedian-gate.jpg&#34;
+        width=&#34;1159&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_062733165-zhongliedian-gate_hubd58b5eea90ff3475e2027d31ae65ea9_261728_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_062733165-zhongliedian-gate_hubd58b5eea90ff3475e2027d31ae65ea9_261728_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;忠烈殿大门&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;133&#34;
+            data-flex-basis=&#34;320px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;忠烈殿大门&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063004609-zhongliedian-inside.jpg&#34;
+        width=&#34;1159&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063004609-zhongliedian-inside_hubd58b5eea90ff3475e2027d31ae65ea9_187581_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_063004609-zhongliedian-inside_hubd58b5eea90ff3475e2027d31ae65ea9_187581_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;忠烈殿内&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;133&#34;
+            data-flex-basis=&#34;320px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;忠烈殿内&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;然后来到「桃园三结义故里」，布置成了一个农家小院的样子，想来这里应该有可能是张飞家产的原址，不过地面上的一切当然都是后人附会的。中间一座结义亭坐着三兄弟的塑像，除了亭旁边布置了几束四时不衰的假花供游客常年拍照外，院内还栽着稀稀落落的真·桃花，让我不由得庆幸，还来得及趁着春天还没结束，看到涿县土生土长的桃花。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064154699-peachflower.jpg&#34;
-	width=&#34;1159&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064154699-peachflower_hubd58b5eea90ff3475e2027d31ae65ea9_418334_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064154699-peachflower_hubd58b5eea90ff3475e2027d31ae65ea9_418334_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;结义亭前桃花&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064154699-peachflower.jpg&#34;
+        width=&#34;1159&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064154699-peachflower_hubd58b5eea90ff3475e2027d31ae65ea9_418334_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064154699-peachflower_hubd58b5eea90ff3475e2027d31ae65ea9_418334_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;结义亭前桃花&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;133&#34;
+            data-flex-basis=&#34;320px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;结义亭前桃花&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;院里还有一处小亭，亭中「张飞古井」当作是曾经张飞储肉处。&lt;/p&gt;
 &lt;p&gt;再往里走，还有另一个内院，当中布置着臆想的张屠户的工作间和演武场，甚至支着兵器架。见到景区工作人员比较宽容，零星的几个游客都上去自己拿起兵器耍起来玩。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064645070-zhang-fei-well.jpg&#34;
-	width=&#34;1159&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064645070-zhang-fei-well_hubd58b5eea90ff3475e2027d31ae65ea9_519719_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064645070-zhang-fei-well_hubd58b5eea90ff3475e2027d31ae65ea9_519719_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;张飞古井&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_065545694-spears.jpg&#34;
-	width=&#34;869&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_065545694-spears_hubd58b5eea90ff3475e2027d31ae65ea9_250163_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_065545694-spears_hubd58b5eea90ff3475e2027d31ae65ea9_250163_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;演武场&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;100&#34;
-		data-flex-basis=&#34;240px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064645070-zhang-fei-well.jpg&#34;
+        width=&#34;1159&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064645070-zhang-fei-well_hubd58b5eea90ff3475e2027d31ae65ea9_519719_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_064645070-zhang-fei-well_hubd58b5eea90ff3475e2027d31ae65ea9_519719_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;张飞古井&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;133&#34;
+            data-flex-basis=&#34;320px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;张飞古井&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_065545694-spears.jpg&#34;
+        width=&#34;869&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_065545694-spears_hubd58b5eea90ff3475e2027d31ae65ea9_250163_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_065545694-spears_hubd58b5eea90ff3475e2027d31ae65ea9_250163_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;演武场&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;100&#34;
+            data-flex-basis=&#34;240px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;演武场&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;兴致所至，我打开小音箱，放在院落一角的磨盘上，循环播放了几遍《这一拜》，可能还被人当成了景区布置的背景音乐，我看到有另一名游客在周围转来转去，探头看究竟是哪里传出的声音。&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe loading=&#34;lazy&#34; 
@@ -332,105 +370,119 @@
 &lt;/div&gt;
 
 &lt;p&gt;游览完毕后，查到三义宫离着不远，因为没什么方便的交通，就步行出发。走出景区之后便是郁郁葱葱的农田，四周天地里一望过去，各个方向却都有不少土堆，像是新坟。让我忽然想起「步出齐城门，遥望荡阴里。里中有三坟，累累正相似。」&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_072806001-field.jpg&#34;
-	width=&#34;1159&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_072806001-field_hu9fd444d66feeba39286d7c1288d8cfc6_276692_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_072806001-field_hu9fd444d66feeba39286d7c1288d8cfc6_276692_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;农田&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_072806001-field.jpg&#34;
+        width=&#34;1159&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_072806001-field_hu9fd444d66feeba39286d7c1288d8cfc6_276692_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_072806001-field_hu9fd444d66feeba39286d7c1288d8cfc6_276692_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;农田&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;133&#34;
+            data-flex-basis=&#34;320px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;农田&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;三义宫&#34;&gt;三义宫
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_080150262-construction.jpg&#34;
-	width=&#34;1339&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_080150262-construction_hubd58b5eea90ff3475e2027d31ae65ea9_219169_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_080150262-construction_hubd58b5eea90ff3475e2027d31ae65ea9_219169_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;三义宫·建设中&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;154&#34;
-		data-flex-basis=&#34;369px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_075604431-wall.jpg&#34;
-	width=&#34;1211&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_075604431-wall_hubd58b5eea90ff3475e2027d31ae65ea9_162240_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_075604431-wall_hubd58b5eea90ff3475e2027d31ae65ea9_162240_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;三义宫围墙&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;139&#34;
-		data-flex-basis=&#34;334px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/IMG_20230415_160229-liu-bei-heir.jpg&#34;
-	width=&#34;1752&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/IMG_20230415_160229-liu-bei-heir_huef66d9cc680755227dbe1aa2a8f459b6_351636_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/IMG_20230415_160229-liu-bei-heir_huef66d9cc680755227dbe1aa2a8f459b6_351636_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;《刘备托孤》&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;201&#34;
-		data-flex-basis=&#34;483px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_080150262-construction.jpg&#34;
+        width=&#34;1339&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_080150262-construction_hubd58b5eea90ff3475e2027d31ae65ea9_219169_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_080150262-construction_hubd58b5eea90ff3475e2027d31ae65ea9_219169_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;三义宫·建设中&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;154&#34;
+            data-flex-basis=&#34;369px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;三义宫·建设中&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_075604431-wall.jpg&#34;
+        width=&#34;1211&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_075604431-wall_hubd58b5eea90ff3475e2027d31ae65ea9_162240_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_075604431-wall_hubd58b5eea90ff3475e2027d31ae65ea9_162240_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;三义宫围墙&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;139&#34;
+            data-flex-basis=&#34;334px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;三义宫围墙&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/IMG_20230415_160229-liu-bei-heir.jpg&#34;
+        width=&#34;1752&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/IMG_20230415_160229-liu-bei-heir_huef66d9cc680755227dbe1aa2a8f459b6_351636_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/IMG_20230415_160229-liu-bei-heir_huef66d9cc680755227dbe1aa2a8f459b6_351636_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;《刘备托孤》&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;201&#34;
+            data-flex-basis=&#34;483px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;《刘备托孤》&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;到了三义宫，却发现正围起来装修，只能遗憾地在周围转了转。&lt;/p&gt;
 &lt;p&gt;旁边一条「三义宫路」通向附近的村落，路两侧涂着三国故事主题的壁画。沿着路走出去不远就是楼桑庙村，说是纪念昭烈帝的家庙处行程的村落。可惜这里不是真正的昭烈故里「大树楼桑村」，彼处还隔着很远，而且看起来交通很不便利，就只好放弃了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084414156-lousangmiao-village.jpg&#34;
-	width=&#34;1920&#34;
-	height=&#34;756&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084414156-lousangmiao-village_hubd58b5eea90ff3475e2027d31ae65ea9_246064_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084414156-lousangmiao-village_hubd58b5eea90ff3475e2027d31ae65ea9_246064_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;美丽的家乡——楼桑庙村&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;253&#34;
-		data-flex-basis=&#34;609px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084634663-lousangmiao.jpg&#34;
-	width=&#34;652&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084634663-lousangmiao_hud064cda110817952d5d2c89eeb8b08f4_146697_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084634663-lousangmiao_hud064cda110817952d5d2c89eeb8b08f4_146697_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;楼桑庙&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;75&#34;
-		data-flex-basis=&#34;180px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084414156-lousangmiao-village.jpg&#34;
+        width=&#34;1920&#34;
+        height=&#34;756&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084414156-lousangmiao-village_hubd58b5eea90ff3475e2027d31ae65ea9_246064_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084414156-lousangmiao-village_hubd58b5eea90ff3475e2027d31ae65ea9_246064_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;美丽的家乡——楼桑庙村&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;253&#34;
+            data-flex-basis=&#34;609px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;美丽的家乡——楼桑庙村&lt;/figcaption&gt;
+&lt;/figure&gt;
+ &lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084634663-lousangmiao.jpg&#34;
+        width=&#34;652&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084634663-lousangmiao_hud064cda110817952d5d2c89eeb8b08f4_146697_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084634663-lousangmiao_hud064cda110817952d5d2c89eeb8b08f4_146697_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;楼桑庙&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;75&#34;
+            data-flex-basis=&#34;180px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;楼桑庙&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;三义广场&#34;&gt;三义广场
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084823850-sanyi-place.jpg&#34;
-	width=&#34;1158&#34;
-	height=&#34;869&#34;
-	srcset=&#34;http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084823850-sanyi-place_hubd58b5eea90ff3475e2027d31ae65ea9_223751_480x0_resize_q75_box.jpg 480w, http://localhost:1313/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084823850-sanyi-place_hubd58b5eea90ff3475e2027d31ae65ea9_223751_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;三义广场&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;figure class=&#34;custom-figure&#34;&gt;
+    &lt;img src=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084823850-sanyi-place.jpg&#34;
+        width=&#34;1158&#34;
+        height=&#34;869&#34;
+        srcset=&#34;https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084823850-sanyi-place_hubd58b5eea90ff3475e2027d31ae65ea9_223751_480x0_resize_q75_box.jpg 480w, https://blog.nautile.one/post/2023-04-15-zhuozhou-pagoda-peachflower/PXL_20230415_084823850-sanyi-place_hubd58b5eea90ff3475e2027d31ae65ea9_223751_1024x0_resize_q75_box.jpg 1024w&#34;
+        loading=&#34;lazy&#34;
+        alt=&#34;三义广场&#34;
+        
+            class=&#34;gallery-image&#34; 
+            data-flex-grow=&#34;133&#34;
+            data-flex-basis=&#34;319px&#34;
+        
+    &gt;
+        &lt;figcaption class=&#34;custom-caption&#34;&gt;三义广场&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;沿着路一直走，路的尽头是三义广场。到了广场才总算有了些热闹的气息。广场中间立着刘关张骑马像，周围聚着很多居民闲坐或是跳舞。从安静的村落一路走来，走到这里才算是看到了人烟。&lt;/p&gt;
 &lt;p&gt;广场毗邻着国道，虽然依旧没什么公共交通，但好在很容易地叫到网约车，回到市区里，乘到公交踏上了归途。&lt;/p&gt;
 &lt;p&gt;走了这一趟，感觉仿佛与昭烈和桓侯有了一种神奇的连接。虽然也不是没去过成都，但这样来到他们出生的地方，像是又更深一步地探索到了他们人生的另一个片段。&lt;/p&gt;
