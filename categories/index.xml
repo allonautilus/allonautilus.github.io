@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Nautili Blog</title>
-        <link>https://blog.nautile.one/categories/</link>
+        <link>https://nautile.one/categories/</link>
         <description>Recent content in Categories on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Fri, 20 Jun 2025 02:18:22 -0400</lastBuildDate><atom:link href="https://blog.nautile.one/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Jun 2025 02:18:22 -0400</lastBuildDate><atom:link href="https://nautile.one/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Tech</title>
-        <link>https://blog.nautile.one/categories/tech/</link>
+        <link>https://nautile.one/categories/tech/</link>
         <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/categories/tech/</guid>
+        <guid>https://nautile.one/categories/tech/</guid>
         <description></description>
         </item>
         <item>
         <title>Performance</title>
-        <link>https://blog.nautile.one/categories/performance/</link>
+        <link>https://nautile.one/categories/performance/</link>
         <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/categories/performance/</guid>
+        <guid>https://nautile.one/categories/performance/</guid>
         <description></description>
         </item>
         <item>
         <title>Performance | 演出</title>
-        <link>https://blog.nautile.one/categories/performance--%E6%BC%94%E5%87%BA/</link>
+        <link>https://nautile.one/categories/performance--%E6%BC%94%E5%87%BA/</link>
         <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/categories/performance--%E6%BC%94%E5%87%BA/</guid>
+        <guid>https://nautile.one/categories/performance--%E6%BC%94%E5%87%BA/</guid>
         <description></description>
         </item>
         <item>
         <title>Syntax</title>
-        <link>https://blog.nautile.one/categories/syntax/</link>
+        <link>https://nautile.one/categories/syntax/</link>
         <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/categories/syntax/</guid>
+        <guid>https://nautile.one/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://blog.nautile.one/categories/themes/</link>
+        <link>https://nautile.one/categories/themes/</link>
         <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/categories/themes/</guid>
+        <guid>https://nautile.one/categories/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>日常</title>
-        <link>https://blog.nautile.one/categories/life/</link>
+        <link>https://nautile.one/categories/life/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/categories/life/</guid>
+        <guid>https://nautile.one/categories/life/</guid>
         <description></description>
         </item>
         <item>
         <title>游记</title>
-        <link>https://blog.nautile.one/categories/travel/</link>
+        <link>https://nautile.one/categories/travel/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/categories/travel/</guid>
+        <guid>https://nautile.one/categories/travel/</guid>
         <description></description>
         </item>
         

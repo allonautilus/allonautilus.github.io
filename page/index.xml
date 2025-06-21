@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Nautili Blog</title>
-        <link>https://blog.nautile.one/page/</link>
+        <link>https://nautile.one/page/</link>
         <description>Recent content in Pages on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Tue, 17 Jun 2025 01:37:25 -0400</lastBuildDate><atom:link href="https://blog.nautile.one/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 17 Jun 2025 01:37:25 -0400</lastBuildDate><atom:link href="https://nautile.one/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>https://blog.nautile.one/page/archives/</link>
+        <link>https://nautile.one/page/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/page/archives/</guid>
+        <guid>https://nautile.one/page/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Recs</title>
-        <link>https://blog.nautile.one/page/recs/</link>
+        <link>https://nautile.one/page/recs/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/page/recs/</guid>
+        <guid>https://nautile.one/page/recs/</guid>
         <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://zhconvert.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;繁化姬&lt;/a&gt;
 繁简转换+本地化，提供中港台不同模式&lt;/p&gt;
@@ -30,10 +30,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>https://blog.nautile.one/page/search/</link>
+        <link>https://nautile.one/page/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/page/search/</guid>
+        <guid>https://nautile.one/page/search/</guid>
         <description></description>
         </item>
         
