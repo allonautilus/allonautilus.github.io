@@ -6,31 +6,6 @@
         <description>Recent content on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language><atom:link href="https://nautile.one/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>博客装修记</title>
-        <link>https://nautile.one/post/blog-decorations/</link>
-        <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://nautile.one/post/blog-decorations/</guid>
-        <description>&lt;h2 id=&#34;字数统计&#34;&gt;字数统计
-&lt;/h2&gt;&lt;h3 id=&#34;文章字数统计&#34;&gt;文章字数统计
-&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://oxidane-uni.github.io/p/%E4%BD%BF%E7%94%A8-hugo-%E5%AF%B9%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%87%8D%E5%BB%BA%E4%B8%8E-stack-%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96%E8%AE%B0%E5%BD%95/#%E6%B7%BB%E5%8A%A0%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;使用 Hugo 对博客的重建与 Stack 主题优化记录&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;总字数统计&#34;&gt;总字数统计
-&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://thirdshire.com/hugo-stack-renovation/#%E6%80%BB%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%8F%91%E8%A1%A8%E4%BA%86x%E7%AF%87%E6%96%87%E7%AB%A0%E5%85%B1%E8%AE%A1x%E5%AD%97&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo Stack主题装修笔记&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;系列文章&#34;&gt;系列文章
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.loikein.one/posts/2021-05-28-hugo-series/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;在 Hugo 里显示系列文章&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;图床&#34;&gt;图床
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;从零开始搭建你的免费图床系统（Cloudflare R2 + WebP Cloud）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://ghjayce.github.io/p/static-site-generator/hugo/hugo-theme-stack-gallery-study/#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo Theme Stack图库是怎么工作的？怎样才能支持外链图片？&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.yfei.page/cn/2021/03/lastmod-hugo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;自动添加博客页面更新日期&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>散戲</title>
         <link>https://nautile.one/post/2024-12-21-final-bow/</link>
         <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
@@ -43,17 +18,6 @@
 &lt;p&gt;傳統戲曲的式微終究無可避免，但有一個部分是讓主角說出希望能帶著歌仔戲去追上時代，讓新一代觀眾接受，走進室內劇院裡，甚至演去台灣最大的劇院。這裡就看得我好感動，尤其是想到當下實際在演出的這個團真的做到了這些。雖然自己對歌仔戲沒有任何感情基礎，但畢竟各種戲劇都有一種相通的感人力量。看得我也跟著本地觀眾一起瘋狂鼓掌。&lt;/p&gt;
 &lt;p&gt;劇目是台語演出配中英文字幕。留意了一下英文字幕發現翻譯得很好，很多俗語都有去用英文中貼切的表達，感到驚喜。&lt;/p&gt;
 &lt;p&gt;這場是後加的場次，可能一開始賣得不多，送出去了很多票，演員最後致謝時報菜名一樣感謝了十來個公司的某董，還感謝了三十來個學校拿贈票的老師同學到場支持，說期待日後他們有了經濟能力再來實際支持（笑死）。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>博客心得</title>
-        <link>https://nautile.one/post/blog-reflections/</link>
-        <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://nautile.one/post/blog-reflections/</guid>
-        <description>&lt;h2 id=&#34;标签和分类的用法&#34;&gt;标签和分类的用法
-&lt;/h2&gt;&lt;p&gt;因为已经习惯了用其他博客服务提供的分类、标签结构，对于Hugo的此类功能，一开始以为只是在每篇文章的开头部分，所有列在categories和tags里的内容，按照所见即所得的形式生成相应的标签和分类，还思考了很久命名形式、要不要包含多语言；直到终于注意到模板里有一个example-category才开始思考具体的用法。所以其实可以用更简单的形式给分类命名，之后在对应categories/tags文件夹里的_index.md里再去定义title作为显示的名称。&lt;/p&gt;
-&lt;p&gt;标签也是同理，虽然模板里原本没有自带tags文件夹，但是参照categories的形式自己创建tags文件夹之后，也可以以同样的方法对每个标签创建单独的页面、配置显示名称。&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -969,7 +933,7 @@ AuDHD&lt;/p&gt;
 &lt;li&gt;幾束花，其間夾著留言小卡片和書信，還有一盒「荀令十里香」&lt;/li&gt;
 &lt;li&gt;一張卡片，上面寫著「大魏國祚萬年」「魏國，最好的國家」（我發出了不敢苟同的聲音）&lt;/li&gt;
 &lt;li&gt;一罐葡萄味的Rio（是讓老曹帶給兒子嗎）&lt;/li&gt;
-&lt;li&gt;一瓶「關公坊」白酒，下面壓著留言字條，說是東吳所產，送來以此解曹公望云長未得之憂（這就要素過於齊全了）&lt;/li&gt;
+&lt;li&gt;一瓶「關公坊」白酒，下面壓著留言字條，說是東吳所產，送來以此解曹公望雲長未得之憂（這就要素過於齊全了）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img src=&#34;https://pub-734423ea1ba143f38ae342e6fc7fa0f0.r2.dev/photo_2025-06-21_18-56-17.jpg&#34;
 	width=&#34;1280&#34;
@@ -4660,6 +4624,60 @@ AuDHD&lt;/p&gt;
 &lt;p&gt;凯旋门里面有一个纪念品商店，与其它热门千篇一律的纪念品店不同，这里还卖一些有军队特色的东西，比如大炮模型。不过这种小模型也只有大炮而没有别的武器，不知是不是为了纪念当年的波拿巴炮兵上尉。&lt;/p&gt;
 &lt;p&gt;忍不住买了一个小模型跟我的小亮摆在一起，祝他能鼓捣出诸葛连炮，搬到某个平行宇宙的北伐战场上去 ٩( &amp;lsquo;ω&amp;rsquo; )و&lt;/p&gt;
 &lt;img src=&#34;https://pub-734423ea1ba143f38ae342e6fc7fa0f0.r2.dev/IMG_20161024_235646.jpg&#34; style=&#34;height: 60vh; display: block; margin: 0 auto;&#34;&gt;</description>
+        </item>
+        <item>
+        <title>Archive for dreams</title>
+        <link>https://nautile.one/post/blog-decorations/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://nautile.one/post/blog-decorations/</guid>
+        <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2019-02-07&lt;br&gt;
+我梦见了Hiba和Angelo。&lt;br&gt;
+我仿佛陷入了一个传销组织，组织的头目让我去医院看守一个人，如果那个人有异象就去向他们的人报告。头目向我交代细节时Hiba来了，打了招呼之后切换了阿拉伯语跟头目说话，一开始还是正常交谈，后来语气突然变得激烈了起来，这时我转头去看头目，却发现她已经被背后突然出现的Angelo控制住。&lt;br&gt;
+Angelo抓完了人之后Hiba用英语问我有没有听懂她们刚刚说话，我当然没有懂……她就向我解释说他们是来剿灭这个组织的，现在人被抓住了我可以放心回家了（。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2019-05-24&lt;br&gt;
+昨天聊到台湾的身分证，晚上做梦就梦到我之前申请台湾通行证的时候也带了个身分证的申请程序。然后收到了个快递里面正好是我新鲜出炉的台湾版身分证。&lt;br&gt;
+很离奇的是上面配偶栏里居然写了我一个大学同学的名字…我跟她只是一起去德国玩过而已（我根本不喜欢她，潜意识里也一点都没有想跟她结婚什么的想法？明明我去台湾是一个人去的。我都纳闷我的梦怎么会想起她来（。&lt;br&gt;
+梦里的后来我还发微信问她有没有也收到…艹&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2019-08-31&lt;br&gt;
+啧，梦见我在加拿大一个叫Vale-sur-Mer的地方的海滩上写论文，正好看到Daniel Lavoie和Bruno Pelletier两个人也在这里玩。我看着他们踩在海水里突然开始向上升，先是在海面上30cm左右的高度悬浮，几秒过后又升到了高空中，我瞬间目瞪口呆，愣了一会儿才拿出手机想要拍照，但没等打开相机，他们就坚持不住落了下来。&lt;br&gt;
+回城时我就跟他们一起边走边聊，我问他们是怎么做到像刚才那样悬空的，Daniel说不知道，表示他这也是第一次，Bruno在一旁但笑不语。&lt;br&gt;
+Bruno开始聊起NDP在中国的巡演，说这次去中国巡演的日程真的好长好长，还问我到什么时候结束，但我梦里居然也记不清具体日期了，还查了一下手机备忘录才跟他讲。&lt;br&gt;
+Daniel又说起很多人叫他是叫Daniel（英语），但他名字中间明明有一个ε的音，我跟他说我是习惯叫Daniel（法语）但是Daniel（英语）的发音就很可爱。&lt;br&gt;
+Bruno和Daniel走到了一个奇怪的山洞旁，说他们要去参加里面的活动项目就先行一步溜了。我也好奇地凑近去看活动说明，参赛者要组队下到山洞里，最后根据一系列评分标准决胜，我跟某A和某B组了一起组成了三人队。&lt;br&gt;
+B比较早进了洞，很快就没影了。轮到我和A下去的时候前面已经挤满了人，A特别灵活地在人群里挤来挤去，我赶紧跟在后面沿着他挤出来的空隙钻过去。&lt;br&gt;
+到了洞底，每个小队有一台计分机器，开始要计算小队刚刚违规扣的分，如果被抓到积分扣掉一定量就会有一名队员被罚下场。这时我脑中出现了一个系统提示，提醒我跟旁边机器上的杨威利队换俘，于是我们进行了一系列积分交易达成了一个双赢的局面，最后一起去参加回到地面的下半场比赛了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2023-05-21&lt;br&gt;
+梦了一个剧集，梦里好看得我连看4集，可惜梦醒就没了😭&lt;br&gt;
+主角是个年轻男孩子，跟母亲两个人新搬到巴黎入住一间公寓。邻居有一位老教士和他的妹妹，教士虽然年纪大了但是一身黑袍勾勒得身材很好。主角刚搬来就去找邻居打招呼，想问问有没有附近家具商人的资讯，但无功而返。主角饭桌上跟母亲汇报情况，母亲吐槽了两句教士兄妹，没留神二人正在楼下花园散步，被透过敞开的窗子听个正着。&lt;br&gt;
+然后主角在电报间一见钟情了一个年轻女孩子，正在跟她母亲一起收电报，主角竖起耳朵听想知道电报是什么内容，发现是一艘船偏离航线失事的消息，女孩闻言和母亲相拥哭泣，主角意识到自己的父亲也在那艘船上，于是也泪流满面，这时老教士妹妹看到了，把主角拥抱在怀里。&lt;br&gt;
+就…感觉整部剧应该是在Netflix上播，属于policier的题材？和最近的一部其他法剧有点像？我在梦里还吐槽怎么近年的剧都是这样的主题，醒了才遗憾原来是一部不存在的剧😢&lt;br&gt;
+教士兄妹大概是被我代了悲的Myriel主教，但我梦里还惦记人家老头子身材是怎么回事🥵&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2023-07-16&lt;br&gt;
+梦了个像末日乐园那样超刺激的冒险故事。大概是每个人觉醒了一项技能和一个弱点，结局到来时根据两个指标打分，排名多少之内可以幸存之类的。可惜没体验到结局就醒了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2023-07-19&lt;br&gt;
+梦到1月24-28日东京有QAL，梦里的我火速买好了一场最高档位的票并开始犹豫要不要再加一场😢&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2023-09-19&lt;br&gt;
+梦到英语阅读课的学习材料是一篇OC/薄熙来的小说，剧情有狱中的薄跟OC相互扶持和嘱托后事。&lt;br&gt;
+文章写得挺好的，我甚至在课上都快看哭了。&lt;br&gt;
+我怎么在梦中还能欣赏到这么美妙的同人文（。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
         </item>
         <item>
         <title>Recs</title>

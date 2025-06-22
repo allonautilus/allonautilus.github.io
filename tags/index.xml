@@ -6,15 +6,7 @@
         <description>Recent content in Tags on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Sat, 21 Jun 2025 22:10:15 -0400</lastBuildDate><atom:link href="https://nautile.one/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Hugo</title>
-        <link>https://nautile.one/tags/hugo/</link>
-        <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://nautile.one/tags/hugo/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 22 Jun 2025 01:15:03 -0400</lastBuildDate><atom:link href="https://nautile.one/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>歌仔戲</title>
         <link>https://nautile.one/tags/%E6%AD%8C%E4%BB%94%E6%88%B2/</link>
         <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
@@ -204,6 +196,14 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://nautile.one/tags/concert/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Dream</title>
+        <link>https://nautile.one/tags/dream/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://nautile.one/tags/dream/</guid>
         <description></description>
         </item>
         <item>
