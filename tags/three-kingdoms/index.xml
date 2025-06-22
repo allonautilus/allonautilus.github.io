@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Three-Kingdoms on Nautili Blog</title>
+        <title>三國 on Nautili Blog</title>
         <link>https://nautile.one/tags/three-kingdoms/</link>
-        <description>Recent content in Three-Kingdoms on Nautili Blog</description>
+        <description>Recent content in 三國 on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-US</language>
-        <lastBuildDate>Sat, 21 Jun 2025 22:07:00 -0400</lastBuildDate><atom:link href="https://nautile.one/tags/three-kingdoms/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-US</language><atom:link href="https://nautile.one/tags/three-kingdoms/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>端陽到安陽</title>
         <link>https://nautile.one/post/2023-06-duanwu-in-anyang/</link>
         <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
