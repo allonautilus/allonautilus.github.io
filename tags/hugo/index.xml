@@ -6,7 +6,7 @@
         <description>Recent content in Hugo on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Fri, 20 Jun 2025 00:03:42 -0400</lastBuildDate><atom:link href="https://nautile.one/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 21 Jun 2025 22:05:42 -0400</lastBuildDate><atom:link href="https://nautile.one/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>博客装修记</title>
         <link>https://nautile.one/post/blog-decorations/</link>
         <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
@@ -25,6 +25,8 @@
 &lt;h2 id=&#34;图床&#34;&gt;图床
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;从零开始搭建你的免费图床系统（Cloudflare R2 + WebP Cloud）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://ghjayce.github.io/p/static-site-generator/hugo/hugo-theme-stack-gallery-study/#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo Theme Stack图库是怎么工作的？怎样才能支持外链图片？&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.yfei.page/cn/2021/03/lastmod-hugo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;自动添加博客页面更新日期&lt;/a&gt;&lt;/p&gt;
 </description>
