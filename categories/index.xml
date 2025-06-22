@@ -6,44 +6,20 @@
         <description>Recent content in Categories on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Sat, 21 Jun 2025 22:02:21 -0400</lastBuildDate><atom:link href="https://nautile.one/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Performance</title>
-        <link>https://nautile.one/categories/performance/</link>
-        <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://nautile.one/categories/performance/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Performance | 演出</title>
-        <link>https://nautile.one/categories/performance--%E6%BC%94%E5%87%BA/</link>
-        <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://nautile.one/categories/performance--%E6%BC%94%E5%87%BA/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Syntax</title>
-        <link>https://nautile.one/categories/syntax/</link>
-        <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://nautile.one/categories/syntax/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://nautile.one/categories/themes/</link>
-        <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://nautile.one/categories/themes/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 22 Jun 2025 17:47:52 -0400</lastBuildDate><atom:link href="https://nautile.one/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>日常</title>
         <link>https://nautile.one/categories/life/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://nautile.one/categories/life/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>演出</title>
+        <link>https://nautile.one/categories/performance/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://nautile.one/categories/performance/</guid>
         <description></description>
         </item>
         <item>
